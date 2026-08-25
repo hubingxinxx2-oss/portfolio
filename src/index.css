@@ -21,6 +21,18 @@
   --ease: cubic-bezier(0.16, 1, 0.3, 1);
 }
 
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+button,
+a,
+[role="button"],
+.works__item {
+  touch-action: manipulation;
+}
+
 /* ============ Reset & base ============ */
 *,
 *::before,
@@ -1753,6 +1765,8 @@ ul {
   max-height: calc(92vh - 58px);
   border-radius: 14px;
   overscroll-behavior: contain;
+  touch-action: pan-y;
+  -webkit-overflow-scrolling: touch;
 }
 .works-lightbox__loading {
   display: flex;

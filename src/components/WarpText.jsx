@@ -112,6 +112,8 @@ void main() {
 `;
 
 const getFontValue = value => (typeof value === 'number' ? `${value}px` : value);
+const isCoarse = () =>
+  typeof window !== 'undefined' && !!window.matchMedia?.('(pointer: coarse)').matches;
 
 const measureLine = (ctx, line, letterSpacing) => {
   const chars = Array.from(line);
@@ -312,7 +314,7 @@ const WarpText = ({
         alpha: true,
         premultipliedAlpha: false,
         antialias: true,
-        dpr: Math.min(window.devicePixelRatio || 1, 2)
+          dpr: Math.min(window.devicePixelRatio || 1, isCoarse() ? 1.5 : 2)
       });
       gl = renderer.gl;
     } catch (error) {
@@ -392,7 +394,7 @@ const WarpText = ({
       const rect = container.getBoundingClientRect();
       if (rect.width <= 0 || rect.height <= 0) return;
 
-      const dpr = Math.min(window.devicePixelRatio || 1, 2);
+  const dpr = Math.min(window.devicePixelRatio || 1, isCoarse() ? 1.5 : 2);
       const textCanvas = buildTextCanvas({
         container,
         width: rect.width,
@@ -410,7 +412,7 @@ const WarpText = ({
       const rect = container.getBoundingClientRect();
       if (rect.width <= 0 || rect.height <= 0) return;
 
-      renderer.dpr = Math.min(window.devicePixelRatio || 1, 2);
+  renderer.dpr = Math.min(window.devicePixelRatio || 1, isCoarse() ? 1.5 : 2);
       renderer.setSize(rect.width, rect.height);
       program.uniforms.uResolution.value[0] = gl.drawingBufferWidth;
       program.uniforms.uResolution.value[1] = gl.drawingBufferHeight;

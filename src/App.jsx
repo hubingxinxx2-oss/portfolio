@@ -36,10 +36,19 @@ function Home() {
 function BeamsLayer() {
   const { pathname } = useLocation()
   const [ready, setReady] = useState(false)
+  const [mobile, setMobile] = useState(false)
   useEffect(() => {
     let cancelled = false
     const show = () => {
       if (!cancelled) setReady(true)
+    }
+    // 触屏/窄屏设备跳过 three.js 光束背景，避免手机 GPU 过载
+    const coarse =
+      typeof window !== 'undefined' &&
+      (window.matchMedia?.('(pointer: coarse)').matches || window.innerWidth < 820)
+    if (coarse) {
+      setMobile(true)
+      return undefined
     }
     const id =
       'requestIdleCallback' in window
@@ -51,7 +60,7 @@ function BeamsLayer() {
       else clearTimeout(id)
     }
   }, [])
-  if (pathname !== '/' || !ready) return null
+  if (pathname !== '/' || !ready || mobile) return null
   return (
     <div className="page-beams" aria-hidden="true">
       <Suspense fallback={null}>

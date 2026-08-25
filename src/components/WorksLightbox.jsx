@@ -7,6 +7,7 @@ export default function WorksLightbox({ items, index, onClose, onNavigate }) {
   const [overflowing, setOverflowing] = useState(false)
   const loadedRef = useRef(0)
   const scrollRef = useRef(null)
+  const pointerDownRef = useRef(null)
 
   const current = items[index]
   const isSegmented = !!(current && current.segs && current.segs.length > 1)
@@ -60,8 +61,25 @@ export default function WorksLightbox({ items, index, onClose, onNavigate }) {
 
   if (index === null || !current) return null
 
+  const handleBackdropClick = (e) => {
+    // 触屏上滑动后松手不应误触发关闭
+    if (pointerDownRef.current) {
+      const dx = e.clientX - pointerDownRef.current.x
+      const dy = e.clientY - pointerDownRef.current.y
+      if (Math.hypot(dx, dy) > 12) return
+    }
+    onClose()
+  }
+
   return createPortal(
-    <div className="works-lightbox" onClick={onClose} role="presentation">
+    <div
+      className="works-lightbox"
+      onClick={handleBackdropClick}
+      onPointerDown={(e) => {
+        pointerDownRef.current = { x: e.clientX, y: e.clientY }
+      }}
+      role="presentation"
+    >
       <div className="works-lightbox__frame" onClick={(e) => e.stopPropagation()}>
         <button className="works-lightbox__close" type="button" onClick={onClose} aria-label="关闭">
           ×
