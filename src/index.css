@@ -919,6 +919,8 @@ ul {
 /* ============ Projects ============ */
 .project {
   scroll-margin-top: 110px;
+  content-visibility: auto;
+  contain-intrinsic-height: 420px;
 }
 
 .project__cover {
@@ -1595,6 +1597,8 @@ ul {
 .works__module {
   margin-bottom: 80px;
   scroll-margin-top: 120px;
+  content-visibility: auto;
+  contain-intrinsic-height: 800px;
 }
 .works__module-head {
   display: flex;
@@ -1653,8 +1657,11 @@ ul {
       rgba(255, 255, 255, 0.05) 33%
     );
   background-size: 200% 100%;
-  animation: works-shimmer 1.6s linear infinite;
   cursor: zoom-in;
+}
+/* 仅前几张保留微光动画，避免数百个格子持续重绘造成滚动卡顿 */
+.works__masonry-col .works__item:nth-child(-n + 4) {
+  animation: works-shimmer 1.6s linear infinite;
 }
 @keyframes works-shimmer {
   to {
@@ -1892,6 +1899,8 @@ ul {
 }
 .gallery__group {
   margin-bottom: 72px;
+  content-visibility: auto;
+  contain-intrinsic-height: 1200px;
 }
 .gallery__group-head {
   display: flex;

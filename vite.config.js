@@ -10,12 +10,5 @@ export default defineConfig({
   build: {
     target: 'es2020',
     chunkSizeWarningLimit: 900,
-    rollupOptions: {
-      output: {
-        manualChunks: {
-          three: ['three', '@react-three/fiber', '@react-three/drei'],
-        },
-      },
-    },
   },
 })

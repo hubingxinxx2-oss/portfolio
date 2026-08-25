@@ -41,6 +41,23 @@ export default function WorksLightbox({ items, index, onClose, onNavigate }) {
     return undefined
   }, [lightboxLoaded, index])
 
+  // 预加载相邻作品的完整图，翻页时无需等待
+  useEffect(() => {
+    if (index === null) return undefined
+    const preload = (i) => {
+      const item = items[(i + items.length) % items.length]
+      if (!item) return
+      const srcs = item.segs && item.segs.length > 1 ? item.segs : [item.src]
+      srcs.slice(0, 2).forEach((s) => {
+        const img = new Image()
+        img.src = s
+      })
+    }
+    preload(index + 1)
+    preload(index - 1)
+    return undefined
+  }, [index, items])
+
   if (index === null || !current) return null
 
   return createPortal(
@@ -67,6 +84,7 @@ export default function WorksLightbox({ items, index, onClose, onNavigate }) {
                 key={s}
                 src={s}
                 alt={current.label}
+                decoding="async"
                 onLoad={() => {
                   loadedRef.current += 1
                   const segs = isSegmented ? current.segs.length : 1

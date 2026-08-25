@@ -1,6 +1,5 @@
-import { useEffect, useState } from 'react'
+import { Suspense, lazy, useEffect, useState } from 'react'
 import { BrowserRouter, Route, Routes, useLocation } from 'react-router-dom'
-import Beams from './components/Beams.jsx'
 import Navbar from './components/Navbar.jsx'
 import Hero from './components/Hero.jsx'
 import About from './components/About.jsx'
@@ -11,6 +10,9 @@ import ProjectDetail from './components/ProjectDetail.jsx'
 import PortfolioPage from './components/PortfolioPage.jsx'
 import GalleryPage from './components/GalleryPage.jsx'
 import ScrollToTop from './components/ScrollToTop.jsx'
+
+// three.js 只在首页光束背景用到，动态加载避免其他页面下载/解析 265KB gz
+const Beams = lazy(() => import('./components/Beams.jsx'))
 
 // GitHub Pages 子路径部署：构建时 base=/portfolio/，路由 basename 跟随 BASE_URL
 const basename = import.meta.env.BASE_URL.replace(/\/$/, '') || '/'
@@ -52,16 +54,18 @@ function BeamsLayer() {
   if (pathname !== '/' || !ready) return null
   return (
     <div className="page-beams" aria-hidden="true">
-      <Beams
-        beamWidth={3.9}
-        beamHeight={25}
-        beamNumber={5}
-        lightColor="#ff5a63"
-        speed={3}
-        noiseIntensity={0.35}
-        scale={0.08}
-        rotation={28}
-      />
+      <Suspense fallback={null}>
+        <Beams
+          beamWidth={3.9}
+          beamHeight={25}
+          beamNumber={5}
+          lightColor="#ff5a63"
+          speed={3}
+          noiseIntensity={0.35}
+          scale={0.08}
+          rotation={28}
+        />
+      </Suspense>
     </div>
   )
 }
