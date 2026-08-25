@@ -11,18 +11,30 @@ npm run dev
 
 打开 http://localhost:5173 预览；`npm run build` 生成生产构建。
 
-## 部署（GitHub Pages）
+## 部署
 
-站点部署在 `https://hubingxinxx2-oss.github.io/portfolio/`。
+### Cloudflare Pages（国内主力，永久链接）
+
+正式站点：https://huxin-portfolio.pages.dev/
 
 ```bash
-npm run build        # 产物带 /portfolio/ 子路径 base，并自动生成 404.html（SPA 兜底）
+npm run build        # 根路径 base，产物含 404.html（SPA 兜底）
+npx wrangler pages deploy dist --project-name huxin-portfolio --branch main
+```
+
+需要先 `wrangler login` 或设置 `CLOUDFLARE_API_TOKEN` / `CLOUDFLARE_ACCOUNT_ID`。
+
+### GitHub Pages（海外备用）
+
+备用站点：https://hubingxinxx2-oss.github.io/portfolio/
+
+```bash
+npm run build:gh     # 产物带 /portfolio/ 子路径 base，并自动生成 404.html（SPA 兜底）
 git subtree push --prefix dist origin gh-pages   # 把 dist 推送到 gh-pages 分支
 ```
 
-仓库 `main` 分支保存源码，`gh-pages` 分支保存构建产物。GitHub 仓库需在
-Settings → Pages → Build and deployment 选择 “Deploy from a branch” 并指向 `gh-pages / (root)`。
-资源路径已在源码中统一通过 `import.meta.env.BASE_URL` 加前缀，子路径部署无需改代码。
+仓库 `main` 分支保存源码，`gh-pages` 分支保存构建产物。资源路径已在源码中统一通过
+`import.meta.env.BASE_URL` 加前缀，两个平台的 base 差异由 `build` / `build:gh` 两个脚本区分。
 
 ## 目录结构
 
