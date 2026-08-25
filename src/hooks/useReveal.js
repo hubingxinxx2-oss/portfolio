@@ -21,6 +21,7 @@ export default function useReveal(rootRef) {
     }
 
     const ctx = gsap.context(() => {
+      try {
       // ---------- 特殊容器（内部元素统一编排，不做默认淡入） ----------
       const containers = [
         '.section-heading',
@@ -277,6 +278,20 @@ export default function useReveal(rootRef) {
             },
           },
         )
+      }
+      } catch (err) {
+        // 动画初始化失败时 fail-open：清掉半途设置的隐藏样式，避免黑屏/内容隐形
+        root
+          .querySelectorAll(
+            '[data-reveal], .works__item, .project, .skill, .stat, .job, .tool, .contact__row, .gallery__item, .detail__cover, .profile',
+          )
+          .forEach((el) => {
+            el.style.opacity = ''
+            el.style.transform = ''
+            el.style.clipPath = ''
+            el.style.filter = ''
+          })
+        console.warn('[useReveal] 动画初始化失败，已回退为直接显示', err)
       }
     }, root)
 

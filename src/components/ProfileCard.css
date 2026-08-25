@@ -426,6 +426,18 @@
 }
 
 @media (max-width: 768px) {
+  /* 触屏上允许页面纵向滚动，避免照片区域吞掉滑动手势 */
+  .pc-card-wrapper {
+    touch-action: pan-y;
+  }
+  /* 移动端降低背景辉光与动效开销 */
+  .pc-behind {
+    filter: blur(16px) saturate(1.1);
+  }
+  .pc-shine,
+  .pc-shine::after {
+    animation-play-state: paused;
+  }
   .pc-card {
     height: 70svh;
     max-height: 450px;

@@ -931,8 +931,6 @@ ul {
 /* ============ Projects ============ */
 .project {
   scroll-margin-top: 110px;
-  content-visibility: auto;
-  contain-intrinsic-height: 420px;
 }
 
 .project__cover {
@@ -1609,8 +1607,6 @@ ul {
 .works__module {
   margin-bottom: 80px;
   scroll-margin-top: 120px;
-  content-visibility: auto;
-  contain-intrinsic-height: 800px;
 }
 .works__module-head {
   display: flex;
@@ -1913,8 +1909,6 @@ ul {
 }
 .gallery__group {
   margin-bottom: 72px;
-  content-visibility: auto;
-  contain-intrinsic-height: 1200px;
 }
 .gallery__group-head {
   display: flex;
