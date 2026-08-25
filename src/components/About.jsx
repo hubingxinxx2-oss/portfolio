@@ -49,8 +49,8 @@ export default function About() {
         <div className="about__grid">
           <aside className="profile" data-reveal>
             <ProfileCard
-              avatarUrl="/assets/avatar.jpg"
-              miniAvatarUrl="/assets/avatar.jpg"
+              avatarUrl={`${import.meta.env.BASE_URL}assets/avatar.jpg`}
+              miniAvatarUrl={`${import.meta.env.BASE_URL}assets/avatar.jpg`}
               name={site.name}
               title={`${site.role} · ${site.roleTags[0]}`}
               handle={site.wechat}
@@ -61,7 +61,7 @@ export default function About() {
               behindGlowColor="rgba(242, 47, 56, 0.5)"
               behindGlowSize="45%"
               innerGradient="linear-gradient(145deg, rgba(122, 22, 32, 0.88) 0%, rgba(16, 6, 10, 0.82) 100%)"
-              iconUrl="/assets/card-pattern.svg"
+              iconUrl={`${import.meta.env.BASE_URL}assets/card-pattern.svg`}
               className="profile-card"
             />
             <div className="profile__info">

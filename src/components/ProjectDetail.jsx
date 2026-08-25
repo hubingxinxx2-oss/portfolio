@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react'
 import { Link, Navigate, useParams } from 'react-router-dom'
-import worksData from '../data/works.json'
+import worksData from '../data/works.js'
 import { site } from '../data/site.js'
 import useReveal from '../hooks/useReveal.js'
 import ContactModal from './ContactModal.jsx'

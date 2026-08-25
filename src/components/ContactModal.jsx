@@ -50,7 +50,7 @@ export default function ContactModal({ open, onClose }) {
         <p className="modal__subtitle">扫码添加微信，或直接发送邮件</p>
         <img
           className="modal__qr"
-          src="/assets/wechat-qr.png"
+          src={`${import.meta.env.BASE_URL}assets/wechat-qr.png`}
           alt="个人微信二维码"
           width="400"
           height="400"

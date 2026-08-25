@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef } from 'react'
-import { useLocation } from 'react-router-dom'
-import worksData from '../data/works.json'
+import { Link, useLocation } from 'react-router-dom'
+import worksData from '../data/works.js'
 import Navbar from './Navbar.jsx'
 import useReveal from '../hooks/useReveal.js'
 import WorksGallery from './WorksGallery.jsx'
@@ -52,10 +52,10 @@ export default function PortfolioPage() {
           <p className="works__subtitle">
             按产品与类型分类展示，点击可查看大图
           </p>
-          <a className="works__gallery-link" href="/gallery">
+          <Link className="works__gallery-link" to="/gallery">
             UI 作品集 · 平面作品集完整预览
             <span aria-hidden="true">→</span>
-          </a>
+          </Link>
         </header>
 
         {modules.map((mod, i) => (

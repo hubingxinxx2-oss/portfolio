@@ -1,6 +1,6 @@
 import { useMemo, useRef } from 'react'
-import { useParams } from 'react-router-dom'
-import worksData from '../data/works.json'
+import { Link, useParams } from 'react-router-dom'
+import worksData from '../data/works.js'
 import Navbar from './Navbar.jsx'
 import useReveal from '../hooks/useReveal.js'
 
@@ -50,9 +50,9 @@ export default function GalleryPage() {
           <p className="gallery__subtitle">
             按原始顺序上下连续预览，共 {sections.reduce((n, s) => n + s.images.length, 0)} 件作品
           </p>
-          <a className="gallery__back" href="/portfolio">
+          <Link className="gallery__back" to="/portfolio">
             ← 返回作品集
-          </a>
+          </Link>
         </header>
 
         {sections.map((section) => (

@@ -12,6 +12,9 @@ import PortfolioPage from './components/PortfolioPage.jsx'
 import GalleryPage from './components/GalleryPage.jsx'
 import ScrollToTop from './components/ScrollToTop.jsx'
 
+// GitHub Pages 子路径部署：构建时 base=/portfolio/，路由 basename 跟随 BASE_URL
+const basename = import.meta.env.BASE_URL.replace(/\/$/, '') || '/'
+
 function Home() {
   return (
     <div className="site">
@@ -65,7 +68,7 @@ function BeamsLayer() {
 
 export default function App() {
   return (
-    <BrowserRouter>
+      <BrowserRouter basename={basename}>
       <ScrollToTop />
       <BeamsLayer />
       <Routes>

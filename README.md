@@ -11,13 +11,28 @@ npm run dev
 
 打开 http://localhost:5173 预览；`npm run build` 生成生产构建。
 
+## 部署（GitHub Pages）
+
+站点部署在 `https://hubingxinxx2-oss.github.io/portfolio/`。
+
+```bash
+npm run build        # 产物带 /portfolio/ 子路径 base，并自动生成 404.html（SPA 兜底）
+git subtree push --prefix dist origin gh-pages   # 把 dist 推送到 gh-pages 分支
+```
+
+仓库 `main` 分支保存源码，`gh-pages` 分支保存构建产物。GitHub 仓库需在
+Settings → Pages → Build and deployment 选择 “Deploy from a branch” 并指向 `gh-pages / (root)`。
+资源路径已在源码中统一通过 `import.meta.env.BASE_URL` 加前缀，子路径部署无需改代码。
+
 ## 目录结构
 
 ```
 src/
   data/site.js        # 站点内容（个人信息、项目、技能、联系方式）— 主要改这里
+  data/works.js       # works.json 的路径包装层（自动加 BASE_URL 前缀）
   components/         # 五大模块组件
   index.css           # 全局样式与设计变量
+scripts/postbuild.mjs # 构建后复制 index.html → 404.html
 public/
   assets/             # 背景动效、占位封面、头像
 ```

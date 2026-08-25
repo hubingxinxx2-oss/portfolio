@@ -1,3 +1,5 @@
+const base = import.meta.env.BASE_URL
+
 export const site = {
   name: '胡炳鑫',
   enName: 'HU BINGXIN',
@@ -87,7 +89,7 @@ export const site = {
       role: '视觉设计师',
       tools: 'Photoshop / Illustrator / Figma',
       tags: ['品牌视觉', 'VI 维护', '海报设计'],
-      cover: '/assets/covers/brand-visual.svg',
+      cover: `${base}assets/covers/brand-visual.svg`,
       highlights: [
         '负责蒙牛一米八八品牌日常视觉维护与品牌形象更新',
         '主导哈德爱因斯坦品牌视觉优化升级，提升整体视觉统一性',
@@ -108,7 +110,7 @@ export const site = {
       role: '视觉设计师',
       tools: 'Photoshop / Illustrator',
       tags: ['详情页', '电商物料', '促销视觉'],
-      cover: '/assets/covers/ecommerce.svg',
+      cover: `${base}assets/covers/ecommerce.svg`,
       highlights: [
         '负责新品上市配套设计，包括产品详情页、宣传海报、电商视觉物料',
         '以清晰的视觉层级组织产品卖点，提升页面转化表现',
@@ -128,7 +130,7 @@ export const site = {
       role: 'AI 设计师',
       tools: 'ChatGPT / 即梦 / Codex',
       tags: ['AI 生成', '创意概念', '效率工具'],
-      cover: '/assets/covers/ai-creation.svg',
+      cover: `${base}assets/covers/ai-creation.svg`,
       highlights: [
         '把 AI 图像生成工具接入创意流程，快速产出多版概念方案',
         '用 AI 辅助视觉创作提升设计效率，缩短提案周期',
@@ -148,7 +150,7 @@ export const site = {
       role: '视觉设计师',
       tools: 'Photoshop / After Effects',
       tags: ['直播物料', '活动视觉', '营销推广'],
-      cover: '/assets/covers/marketing.svg',
+      cover: `${base}assets/covers/marketing.svg`,
       highlights: [
         '负责直播间视觉物料设计，包括直播背景、活动页面、促销素材',
         '根据市场活动需求快速输出视觉方案，支持品牌营销推广',
@@ -169,7 +171,7 @@ export const site = {
       role: 'UI 设计师',
       tools: 'Figma / Photoshop',
       tags: ['UI 界面', '交互体验', '完整案例'],
-      cover: '/assets/covers/ui-portfolio.svg',
+      cover: `${base}assets/covers/ui-portfolio.svg`,
       highlights: [
         '完整收录 UI 设计作品，按原始顺序上下连续预览',
         '覆盖小程序界面、设计规范与交互体验优化',
@@ -190,7 +192,7 @@ export const site = {
       role: '视觉设计师',
       tools: 'Photoshop / Illustrator / CorelDRAW',
       tags: ['平面设计', '品牌海报', '完整案例'],
-      cover: '/assets/covers/print-portfolio.svg',
+      cover: `${base}assets/covers/print-portfolio.svg`,
       highlights: [
         '完整收录平面设计作品，按原始顺序上下连续预览',
         '覆盖品牌海报、活动物料与电商视觉方向',
