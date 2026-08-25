@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0c10"/>
+      <stop offset="1" stop-color="#060608"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff7a80"/>
+      <stop offset="0.45" stop-color="#f22f38"/>
+      <stop offset="1" stop-color="#b91220"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="42%" cy="38%" r="62%">
+      <stop offset="0" stop-color="#f22f38" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#f22f38" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="48" height="48" patternUnits="userSpaceOnUse">
+      <circle cx="24" cy="24" r="1.7" fill="#ffffff" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <rect width="1600" height="900" fill="url(#dots)"/>
+
+  <text x="818" y="638" font-family="'Helvetica Neue','Inter',sans-serif" font-size="720" font-weight="900" letter-spacing="-20" text-anchor="middle" fill="none" stroke="#ffffff" stroke-opacity="0.07" stroke-width="3" transform="rotate(-3 800 450)">AI</text>
+  <text x="800" y="632" font-family="'Helvetica Neue','Inter',sans-serif" font-size="720" font-weight="900" letter-spacing="-20" text-anchor="middle" fill="url(#redGrad)">AI</text>
+  <text x="800" y="632" font-family="'Helvetica Neue','Inter',sans-serif" font-size="720" font-weight="900" letter-spacing="-20" text-anchor="middle" fill="none" stroke="#ffb1b6" stroke-opacity="0.3" stroke-width="1.5">AI</text>
+
+  <text x="80" y="92" font-family="'SF Mono',Consolas,monospace" font-size="15" font-weight="600" letter-spacing="4" fill="#ffffff" opacity="0.55">HUBINGXIN — AI CREATION</text>
+  <rect x="1460" y="70" width="16" height="16" fill="#f22f38"/>
+  <text x="1490" y="84" text-anchor="end" font-family="'SF Mono',Consolas,monospace" font-size="15" letter-spacing="2" fill="#ffffff" opacity="0.55">2026</text>
+
+  <g stroke="#ffffff" stroke-opacity="0.16" stroke-width="1.5">
+    <line x1="1180" y1="170" x2="1290" y2="240"/>
+    <line x1="1180" y1="170" x2="1220" y2="330"/>
+    <line x1="1290" y1="240" x2="1220" y2="330"/>
+    <line x1="1290" y1="240" x2="1420" y2="330"/>
+    <line x1="1220" y1="330" x2="1420" y2="330"/>
+    <line x1="1180" y1="170" x2="1420" y2="330"/>
+  </g>
+  <circle cx="1180" cy="170" r="10" fill="#f22f38"/>
+  <circle cx="1290" cy="240" r="7" fill="none" stroke="#f22f38" stroke-width="2"/>
+  <circle cx="1220" cy="330" r="10" fill="#f22f38"/>
+  <circle cx="1420" cy="330" r="7" fill="none" stroke="#f22f38" stroke-width="2"/>
+
+  <rect x="150" y="540" width="170" height="130" fill="none" stroke="#ffffff" stroke-opacity="0.14" stroke-width="2"/>
+  <path d="M235 556 L235 654 M187 605 L283 605 M203 572 L267 638 M267 572 L203 638" stroke="#f22f38" stroke-opacity="0.75" stroke-width="2"/>
+  <circle cx="235" cy="605" r="9" fill="none" stroke="#f22f38" stroke-width="2"/>
+
+  <line x1="0" y1="900" x2="300" y2="600" stroke="#f22f38" stroke-opacity="0.5" stroke-width="2"/>
+  <line x1="0" y1="900" x2="180" y2="720" stroke="#ffffff" stroke-opacity="0.12" stroke-width="1"/>
+
+  <circle cx="150" cy="790" r="34" fill="none" stroke="#f22f38" stroke-opacity="0.8" stroke-width="2"/>
+  <line x1="80" y1="790" x2="220" y2="790" stroke="#f22f38" stroke-opacity="0.6" stroke-width="1.5"/>
+  <line x1="150" y1="720" x2="150" y2="860" stroke="#f22f38" stroke-opacity="0.6" stroke-width="1.5"/>
+
+  <text x="1520" y="812" text-anchor="end" font-family="'Helvetica Neue',sans-serif" font-size="15" font-weight="600" letter-spacing="3" fill="#ffffff" opacity="0.5">AI · CONCEPT · GENERATIVE DESIGN</text>
+</svg>
