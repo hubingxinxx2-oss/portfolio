@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c0a12"/>
+      <stop offset="1" stop-color="#050507"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff7a80"/>
+      <stop offset="1" stop-color="#c81e2e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="55%">
+      <stop offset="0" stop-color="#f22f38" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#f22f38" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="26" stdDeviation="30" flood-color="#000" flood-opacity="0.65"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <g stroke="#ffffff" stroke-opacity="0.045">
+    <path d="M0 180h1600M0 360h1600M0 540h1600M0 720h1600"/>
+    <path d="M200 0v900M400 0v900M600 0v900M800 0v900M1000 0v900M1200 0v900M1400 0v900"/>
+  </g>
+
+  <g transform="translate(800 450) rotate(-3.5)">
+    <rect x="-196" y="-376" width="392" height="752" rx="54" fill="#050507" stroke="#2a2a30" stroke-width="5" filter="url(#shadow)"/>
+    <rect x="-176" y="-354" width="352" height="708" rx="40" fill="#0d0e14"/>
+    <text x="-150" y="-320" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#e4e5ea">9:41</text>
+    <g fill="#e4e5ea">
+      <rect x="120" y="-322" width="20" height="10" rx="3"/>
+      <rect x="96" y="-322" width="18" height="10" rx="3" opacity="0.6"/>
+    </g>
+
+    <text x="-150" y="-276" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="26" font-weight="700" fill="#ffffff">酒聚</text>
+    <rect x="-150" y="-260" width="110" height="8" rx="4" fill="#6a6a73"/>
+    <rect x="-150" y="-244" width="150" height="8" rx="4" fill="#52525a"/>
+
+    <rect x="-150" y="-210" width="300" height="40" rx="20" fill="#1b1c25"/>
+    <circle cx="-128" cy="-190" r="7" fill="none" stroke="#8a8a93" stroke-width="2"/>
+    <text x="-108" y="-185" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="13" fill="#8a8a93">搜索酒吧 · 酒单 · 活动</text>
+
+    <rect x="-150" y="-150" width="300" height="150" rx="20" fill="url(#red)"/>
+    <rect x="-122" y="-122" width="64" height="26" rx="13" fill="#fff"/>
+    <text x="-90" y="-104" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="12" font-weight="600" fill="#c81e2e">限时活动</text>
+    <text x="-122" y="-58" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="24" font-weight="700" fill="#ffffff">周末精酿节</text>
+    <rect x="-122" y="-30" width="180" height="9" rx="4.5" fill="#fff" opacity="0.55"/>
+    <rect x="-122" y="-14" width="140" height="9" rx="4.5" fill="#fff" opacity="0.35"/>
+    <circle cx="132" cy="-44" r="34" fill="#fff" opacity="0.16"/>
+    <text x="132" y="-34" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="18" font-weight="700" fill="#fff">GO</text>
+
+    <g transform="translate(-150 30)">
+      <rect x="0" y="0" width="142" height="130" rx="16" fill="#15161d"/>
+      <rect x="14" y="14" width="34" height="34" rx="10" fill="url(#red)"/>
+      <rect x="14" y="62" width="90" height="10" rx="5" fill="#e4e5ea" opacity="0.85"/>
+      <rect x="14" y="82" width="70" height="8" rx="4" fill="#6a6a73"/>
+      <rect x="14" y="98" width="52" height="8" rx="4" fill="#52525a"/>
+      <rect x="158" y="0" width="142" height="130" rx="16" fill="#15161d"/>
+      <circle cx="172" cy="31" r="17" fill="none" stroke="#f22f38" stroke-width="3"/>
+      <circle cx="172" cy="31" r="7" fill="#f22f38"/>
+      <rect x="172" y="62" width="90" height="10" rx="5" fill="#e4e5ea" opacity="0.85"/>
+      <rect x="172" y="82" width="70" height="8" rx="4" fill="#6a6a73"/>
+      <rect x="172" y="98" width="52" height="8" rx="4" fill="#52525a"/>
+      <rect x="0" y="148" width="142" height="130" rx="16" fill="#15161d"/>
+      <rect x="14" y="162" width="34" height="34" rx="10" fill="#febc2e"/>
+      <rect x="14" y="210" width="90" height="10" rx="5" fill="#e4e5ea" opacity="0.85"/>
+      <rect x="14" y="230" width="70" height="8" rx="4" fill="#6a6a73"/>
+      <rect x="14" y="246" width="52" height="8" rx="4" fill="#52525a"/>
+      <rect x="158" y="148" width="142" height="130" rx="16" fill="#15161d"/>
+      <path d="M172 168l9 18 20 3-14 14 3 20-18-9-18 9 3-20-14-14 20-3Z" fill="#4da6ff"/>
+      <rect x="172" y="210" width="90" height="10" rx="5" fill="#e4e5ea" opacity="0.85"/>
+      <rect x="172" y="230" width="70" height="8" rx="4" fill="#6a6a73"/>
+      <rect x="172" y="246" width="52" height="8" rx="4" fill="#52525a"/>
+    </g>
+
+    <rect x="-176" y="262" width="352" height="92" rx="34" fill="#121319"/>
+    <g>
+      <rect x="-150" y="298" width="22" height="22" rx="6" fill="url(#red)"/>
+      <text x="-139" y="312" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="11" fill="#f22f38">酒</text>
+      <rect x="-66" y="298" width="22" height="22" rx="6" fill="#2a2b33"/>
+      <text x="-55" y="312" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="11" fill="#8a8a93">单</text>
+      <rect x="18" y="298" width="22" height="22" rx="6" fill="#2a2b33"/>
+      <text x="29" y="312" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="11" fill="#8a8a93">聚</text>
+      <rect x="102" y="298" width="22" height="22" rx="6" fill="#2a2b33"/>
+      <text x="113" y="312" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="11" fill="#8a8a93">我</text>
+      <rect x="-152" y="326" width="36" height="3" rx="1.5" fill="#f22f38"/>
+    </g>
+  </g>
+
+  <g transform="translate(1080 240) rotate(4)">
+    <rect x="0" y="0" width="230" height="92" rx="20" fill="#14151c" stroke="#ffffff" stroke-opacity="0.14" filter="url(#shadow)"/>
+    <circle cx="34" cy="32" r="12" fill="#f22f38"/>
+    <rect x="60" y="20" width="130" height="10" rx="5" fill="#e4e5ea" opacity="0.9"/>
+    <rect x="60" y="40" width="100" height="8" rx="4" fill="#6a6a73"/>
+    <rect x="24" y="64" width="100" height="8" rx="4" fill="#52525a"/>
+    <rect x="148" y="56" width="60" height="22" rx="11" fill="url(#red)"/>
+    <text x="178" y="71" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="11" font-weight="600" fill="#fff">预约</text>
+  </g>
+
+  <text x="80" y="96" font-family="Inter, sans-serif" font-size="14" font-weight="600" letter-spacing="3" fill="#ffffff" opacity="0.55">03 — UI / PRODUCT</text>
+  <rect x="1464" y="764" width="56" height="56" fill="none" stroke="#f22f38" stroke-opacity="0.5"/>
+</svg>

@@ -1,0 +1,4284 @@
+﻿[
+    {
+        "thumb": "/assets/works/ui/001-ui-01__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/001-ui-01.jpg",
+        "label": "ui作品集 01",
+        "segs": [
+            "/assets/works/ui/001-ui-01.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/002-ui-02__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/002-ui-02.jpg",
+        "label": "ui作品集 02",
+        "segs": [
+            "/assets/works/ui/002-ui-02.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/003-ui-03__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/003-ui-03.jpg",
+        "label": "ui作品集 03",
+        "segs": [
+            "/assets/works/ui/003-ui-03.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/004-ui-04__t.jpg",
+        "h": 1440,
+        "w": 1181,
+        "src": "/assets/works/ui/004-ui-04.jpg",
+        "label": "ui作品集 04",
+        "segs": [
+            "/assets/works/ui/004-ui-04.jpg"
+        ],
+        "th": 610,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/005-ui-05__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/005-ui-05.jpg",
+        "label": "ui作品集 05",
+        "segs": [
+            "/assets/works/ui/005-ui-05.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/006-ui-06__t.jpg",
+        "h": 1012,
+        "w": 1440,
+        "src": "/assets/works/ui/006-ui-06.jpg",
+        "label": "ui作品集 06",
+        "segs": [
+            "/assets/works/ui/006-ui-06.jpg"
+        ],
+        "th": 351,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/007-ui-07__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/007-ui-07.jpg",
+        "label": "ui作品集 07",
+        "segs": [
+            "/assets/works/ui/007-ui-07.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/008-ui-08__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/008-ui-08.jpg",
+        "label": "ui作品集 08",
+        "segs": [
+            "/assets/works/ui/008-ui-08.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/009-ui-09__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/009-ui-09.jpg",
+        "label": "ui作品集 09",
+        "segs": [
+            "/assets/works/ui/009-ui-09.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/010-ui-10__t.jpg",
+        "h": 900,
+        "w": 1440,
+        "src": "/assets/works/ui/010-ui-10.jpg",
+        "label": "ui作品集 10",
+        "segs": [
+            "/assets/works/ui/010-ui-10.jpg"
+        ],
+        "th": 312,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/011-ui-11__t.jpg",
+        "h": 1440,
+        "w": 1024,
+        "src": "/assets/works/ui/011-ui-11.jpg",
+        "label": "ui作品集 11",
+        "segs": [
+            "/assets/works/ui/011-ui-11.jpg"
+        ],
+        "th": 700,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/012-ui-12__t.jpg",
+        "h": 2000,
+        "w": 900,
+        "src": "/assets/works/ui/012-ui-12__s1.jpg",
+        "label": "ui作品集 12",
+        "segs": [
+            "/assets/works/ui/012-ui-12__s1.jpg",
+            "/assets/works/ui/012-ui-12__s2.jpg"
+        ],
+        "th": 700,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/013-ui-13__t.jpg",
+        "h": 1824,
+        "w": 900,
+        "src": "/assets/works/ui/013-ui-13.jpg",
+        "label": "ui作品集 13",
+        "segs": [
+            "/assets/works/ui/013-ui-13.jpg"
+        ],
+        "th": 700,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/014-ui-14__t.jpg",
+        "h": 1586,
+        "w": 900,
+        "src": "/assets/works/ui/014-ui-14.jpg",
+        "label": "ui作品集 14",
+        "segs": [
+            "/assets/works/ui/014-ui-14.jpg"
+        ],
+        "th": 700,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/015-ui-15__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/015-ui-15.jpg",
+        "label": "ui作品集 15",
+        "segs": [
+            "/assets/works/ui/015-ui-15.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/016-ui-16__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/016-ui-16.jpg",
+        "label": "ui作品集 16",
+        "segs": [
+            "/assets/works/ui/016-ui-16.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/017-ui-17__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/017-ui-17.jpg",
+        "label": "ui作品集 17",
+        "segs": [
+            "/assets/works/ui/017-ui-17.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/018-ui-18__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/018-ui-18.jpg",
+        "label": "ui作品集 18",
+        "segs": [
+            "/assets/works/ui/018-ui-18.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/019-ui-19__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/019-ui-19.jpg",
+        "label": "ui作品集 19",
+        "segs": [
+            "/assets/works/ui/019-ui-19.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/020-ui-20__t.jpg",
+        "h": 1089,
+        "w": 1440,
+        "src": "/assets/works/ui/020-ui-20.jpg",
+        "label": "ui作品集 20",
+        "segs": [
+            "/assets/works/ui/020-ui-20.jpg"
+        ],
+        "th": 378,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/021-ui-21__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/021-ui-21.jpg",
+        "label": "ui作品集 21",
+        "segs": [
+            "/assets/works/ui/021-ui-21.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/022-ui-22__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/022-ui-22.jpg",
+        "label": "ui作品集 22",
+        "segs": [
+            "/assets/works/ui/022-ui-22.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/023-ui-23__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/023-ui-23.jpg",
+        "label": "ui作品集 23",
+        "segs": [
+            "/assets/works/ui/023-ui-23.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/024-ui-24__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/024-ui-24.jpg",
+        "label": "ui作品集 24",
+        "segs": [
+            "/assets/works/ui/024-ui-24.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/025-ui-25__t.jpg",
+        "h": 1200,
+        "w": 1440,
+        "src": "/assets/works/ui/025-ui-25.jpg",
+        "label": "ui作品集 25",
+        "segs": [
+            "/assets/works/ui/025-ui-25.jpg"
+        ],
+        "th": 417,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/026-ui-26__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/026-ui-26.jpg",
+        "label": "ui作品集 26",
+        "segs": [
+            "/assets/works/ui/026-ui-26.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/027-ui-27__t.jpg",
+        "h": 1402,
+        "w": 1440,
+        "src": "/assets/works/ui/027-ui-27.jpg",
+        "label": "ui作品集 27",
+        "segs": [
+            "/assets/works/ui/027-ui-27.jpg"
+        ],
+        "th": 487,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/028-ui-28__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/028-ui-28.jpg",
+        "label": "ui作品集 28",
+        "segs": [
+            "/assets/works/ui/028-ui-28.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/029-ui-29__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/029-ui-29.jpg",
+        "label": "ui作品集 29",
+        "segs": [
+            "/assets/works/ui/029-ui-29.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/030-ui-30__t.jpg",
+        "h": 960,
+        "w": 1440,
+        "src": "/assets/works/ui/030-ui-30.jpg",
+        "label": "ui作品集 30",
+        "segs": [
+            "/assets/works/ui/030-ui-30.jpg"
+        ],
+        "th": 333,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/031-ui-31__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/031-ui-31.jpg",
+        "label": "ui作品集 31",
+        "segs": [
+            "/assets/works/ui/031-ui-31.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/032-ui-32__t.jpg",
+        "h": 1561,
+        "w": 900,
+        "src": "/assets/works/ui/032-ui-32.jpg",
+        "label": "ui作品集 32",
+        "segs": [
+            "/assets/works/ui/032-ui-32.jpg"
+        ],
+        "th": 700,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/033-ui-33__t.jpg",
+        "h": 1440,
+        "w": 1137,
+        "src": "/assets/works/ui/033-ui-33.jpg",
+        "label": "ui作品集 33",
+        "segs": [
+            "/assets/works/ui/033-ui-33.jpg"
+        ],
+        "th": 633,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/034-ui-34__t.jpg",
+        "h": 1068,
+        "w": 1440,
+        "src": "/assets/works/ui/034-ui-34.jpg",
+        "label": "ui作品集 34",
+        "segs": [
+            "/assets/works/ui/034-ui-34.jpg"
+        ],
+        "th": 371,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/035-ui-35__t.jpg",
+        "h": 1440,
+        "w": 1042,
+        "src": "/assets/works/ui/035-ui-35.jpg",
+        "label": "ui作品集 35",
+        "segs": [
+            "/assets/works/ui/035-ui-35.jpg"
+        ],
+        "th": 691,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/036-ui-36__t.jpg",
+        "h": 900,
+        "w": 1507,
+        "src": "/assets/works/ui/036-ui-36.jpg",
+        "label": "ui作品集 36",
+        "segs": [
+            "/assets/works/ui/036-ui-36.jpg"
+        ],
+        "th": 299,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/037-ui-37__t.jpg",
+        "h": 1050,
+        "w": 1440,
+        "src": "/assets/works/ui/037-ui-37.jpg",
+        "label": "ui作品集 37",
+        "segs": [
+            "/assets/works/ui/037-ui-37.jpg"
+        ],
+        "th": 365,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/038-ui-38__t.jpg",
+        "h": 1440,
+        "w": 1084,
+        "src": "/assets/works/ui/038-ui-38.jpg",
+        "label": "ui作品集 38",
+        "segs": [
+            "/assets/works/ui/038-ui-38.jpg"
+        ],
+        "th": 664,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ui/039-ui-39__t.jpg",
+        "h": 900,
+        "w": 1600,
+        "src": "/assets/works/ui/039-ui-39.jpg",
+        "label": "ui作品集 39",
+        "segs": [
+            "/assets/works/ui/039-ui-39.jpg"
+        ],
+        "th": 281,
+        "cat": "ui",
+        "group": "UI 作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/001-Frame-1__t.jpg",
+        "h": 2000,
+        "w": 750,
+        "src": "/assets/works/ecommerce/001-Frame-1__s1.jpg",
+        "label": "详情页 Frame 1",
+        "segs": [
+            "/assets/works/ecommerce/001-Frame-1__s1.jpg",
+            "/assets/works/ecommerce/001-Frame-1__s2.jpg",
+            "/assets/works/ecommerce/001-Frame-1__s3.jpg",
+            "/assets/works/ecommerce/001-Frame-1__s4.jpg"
+        ],
+        "th": 700,
+        "cat": "ecommerce",
+        "group": "详情页",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/001-Frame-10__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/001-Frame-10.jpg",
+        "label": "品宣图 Frame 10",
+        "segs": [
+            "/assets/works/brand/001-Frame-10.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "卉植萃洗护 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/002-Frame-11__t.jpg",
+        "h": 1354,
+        "w": 900,
+        "src": "/assets/works/brand/002-Frame-11.jpg",
+        "label": "品宣图 Frame 11",
+        "segs": [
+            "/assets/works/brand/002-Frame-11.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "卉植萃洗护 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/003-Frame-12__t.jpg",
+        "h": 1554,
+        "w": 900,
+        "src": "/assets/works/brand/003-Frame-12.jpg",
+        "label": "品宣图 Frame 12",
+        "segs": [
+            "/assets/works/brand/003-Frame-12.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "卉植萃洗护 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/004-Frame-2__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/004-Frame-2.jpg",
+        "label": "品宣图 Frame 2",
+        "segs": [
+            "/assets/works/brand/004-Frame-2.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "卉植萃洗护 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/005-Frame-3__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/005-Frame-3.jpg",
+        "label": "品宣图 Frame 3",
+        "segs": [
+            "/assets/works/brand/005-Frame-3.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "卉植萃洗护 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/006-Frame-4__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/006-Frame-4.jpg",
+        "label": "品宣图 Frame 4",
+        "segs": [
+            "/assets/works/brand/006-Frame-4.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "卉植萃洗护 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/007-Frame-5__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/007-Frame-5.jpg",
+        "label": "品宣图 Frame 5",
+        "segs": [
+            "/assets/works/brand/007-Frame-5.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "卉植萃洗护 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/008-Frame-6__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/008-Frame-6.jpg",
+        "label": "品宣图 Frame 6",
+        "segs": [
+            "/assets/works/brand/008-Frame-6.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "卉植萃洗护 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/009-Frame-7__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/009-Frame-7.jpg",
+        "label": "品宣图 Frame 7",
+        "segs": [
+            "/assets/works/brand/009-Frame-7.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "卉植萃洗护 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/010-Frame-8__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/010-Frame-8.jpg",
+        "label": "品宣图 Frame 8",
+        "segs": [
+            "/assets/works/brand/010-Frame-8.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "卉植萃洗护 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/011-Frame-9__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/011-Frame-9.jpg",
+        "label": "品宣图 Frame 9",
+        "segs": [
+            "/assets/works/brand/011-Frame-9.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "卉植萃洗护 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/002-Frame-1__t.jpg",
+        "h": 2000,
+        "w": 750,
+        "src": "/assets/works/ecommerce/002-Frame-1__s1.jpg",
+        "label": "详情页 Frame 1",
+        "segs": [
+            "/assets/works/ecommerce/002-Frame-1__s1.jpg",
+            "/assets/works/ecommerce/002-Frame-1__s2.jpg",
+            "/assets/works/ecommerce/002-Frame-1__s3.jpg",
+            "/assets/works/ecommerce/002-Frame-1__s4.jpg",
+            "/assets/works/ecommerce/002-Frame-1__s5.jpg"
+        ],
+        "th": 700,
+        "cat": "ecommerce",
+        "group": "详情页",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/003-__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/ecommerce/003-.jpg",
+        "label": "哈德爱因斯坦 会员商城海报",
+        "segs": [
+            "/assets/works/ecommerce/003-.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "哈德爱因斯坦 · 会员商城",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/012-01__t.jpg",
+        "h": 1602,
+        "w": 900,
+        "src": "/assets/works/brand/012-01.jpg",
+        "label": "哈德爱因斯坦 儿童奶粉海报01",
+        "segs": [
+            "/assets/works/brand/012-01.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/013-03__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/013-03.jpg",
+        "label": "哈德爱因斯坦 儿童奶粉海报03",
+        "segs": [
+            "/assets/works/brand/013-03.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/014-04__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/014-04.jpg",
+        "label": "哈德爱因斯坦 儿童奶粉海报04",
+        "segs": [
+            "/assets/works/brand/014-04.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/015-05__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/015-05.jpg",
+        "label": "哈德爱因斯坦 儿童奶粉海报05",
+        "segs": [
+            "/assets/works/brand/015-05.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/016-06__t.jpg",
+        "h": 1609,
+        "w": 900,
+        "src": "/assets/works/brand/016-06.jpg",
+        "label": "哈德爱因斯坦 儿童奶粉海报06",
+        "segs": [
+            "/assets/works/brand/016-06.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/004-Frame-1__t.jpg",
+        "h": 2000,
+        "w": 750,
+        "src": "/assets/works/ecommerce/004-Frame-1__s1.jpg",
+        "label": "儿童奶粉详情页 Frame 1",
+        "segs": [
+            "/assets/works/ecommerce/004-Frame-1__s1.jpg",
+            "/assets/works/ecommerce/004-Frame-1__s2.jpg",
+            "/assets/works/ecommerce/004-Frame-1__s3.jpg",
+            "/assets/works/ecommerce/004-Frame-1__s4.jpg",
+            "/assets/works/ecommerce/004-Frame-1__s5.jpg",
+            "/assets/works/ecommerce/004-Frame-1__s6.jpg"
+        ],
+        "th": 700,
+        "cat": "ecommerce",
+        "group": "详情页",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/005-Frame-1__t.jpg",
+        "h": 2000,
+        "w": 750,
+        "src": "/assets/works/ecommerce/005-Frame-1__s1.jpg",
+        "label": "叶黄素详情页 Frame 1",
+        "segs": [
+            "/assets/works/ecommerce/005-Frame-1__s1.jpg",
+            "/assets/works/ecommerce/005-Frame-1__s2.jpg",
+            "/assets/works/ecommerce/005-Frame-1__s3.jpg",
+            "/assets/works/ecommerce/005-Frame-1__s4.jpg",
+            "/assets/works/ecommerce/005-Frame-1__s5.jpg"
+        ],
+        "th": 700,
+        "cat": "ecommerce",
+        "group": "详情页",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/006-Frame-1__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/006-Frame-1.jpg",
+        "label": "商城主图 Frame 1",
+        "segs": [
+            "/assets/works/ecommerce/006-Frame-1.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/007-Frame-14__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/007-Frame-14.jpg",
+        "label": "商城主图 Frame 14",
+        "segs": [
+            "/assets/works/ecommerce/007-Frame-14.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/008-Frame-15__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/008-Frame-15.jpg",
+        "label": "商城主图 Frame 15",
+        "segs": [
+            "/assets/works/ecommerce/008-Frame-15.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/009-Frame-16__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/009-Frame-16.jpg",
+        "label": "商城主图 Frame 16",
+        "segs": [
+            "/assets/works/ecommerce/009-Frame-16.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/010-Frame-17__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/010-Frame-17.jpg",
+        "label": "商城主图 Frame 17",
+        "segs": [
+            "/assets/works/ecommerce/010-Frame-17.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/011-Frame-18__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/011-Frame-18.jpg",
+        "label": "商城主图 Frame 18",
+        "segs": [
+            "/assets/works/ecommerce/011-Frame-18.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/012-Frame-2__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/012-Frame-2.jpg",
+        "label": "商城主图 Frame 2",
+        "segs": [
+            "/assets/works/ecommerce/012-Frame-2.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/013-Frame-3__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/013-Frame-3.jpg",
+        "label": "商城主图 Frame 3",
+        "segs": [
+            "/assets/works/ecommerce/013-Frame-3.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/014-Frame-4__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/014-Frame-4.jpg",
+        "label": "商城主图 Frame 4",
+        "segs": [
+            "/assets/works/ecommerce/014-Frame-4.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/015-Frame-5__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/015-Frame-5.jpg",
+        "label": "商城主图 Frame 5",
+        "segs": [
+            "/assets/works/ecommerce/015-Frame-5.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/016-Frame-6__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/016-Frame-6.jpg",
+        "label": "商城主图 Frame 6",
+        "segs": [
+            "/assets/works/ecommerce/016-Frame-6.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/017-Frame-7__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/017-Frame-7.jpg",
+        "label": "商城主图 Frame 7",
+        "segs": [
+            "/assets/works/ecommerce/017-Frame-7.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/018-26__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/018-26.jpg",
+        "label": "商城轮播图 26",
+        "segs": [
+            "/assets/works/ecommerce/018-26.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "哈德爱因斯坦 · 商城轮播图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/019-27__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/019-27.jpg",
+        "label": "商城轮播图 27",
+        "segs": [
+            "/assets/works/ecommerce/019-27.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "哈德爱因斯坦 · 商城轮播图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/020-28__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/020-28.jpg",
+        "label": "商城轮播图 28",
+        "segs": [
+            "/assets/works/ecommerce/020-28.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "哈德爱因斯坦 · 商城轮播图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/021-29__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/021-29.jpg",
+        "label": "商城轮播图 29",
+        "segs": [
+            "/assets/works/ecommerce/021-29.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "哈德爱因斯坦 · 商城轮播图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/022-30__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/022-30.jpg",
+        "label": "商城轮播图 30",
+        "segs": [
+            "/assets/works/ecommerce/022-30.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "哈德爱因斯坦 · 商城轮播图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/023-31__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/023-31.jpg",
+        "label": "商城轮播图 31",
+        "segs": [
+            "/assets/works/ecommerce/023-31.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "哈德爱因斯坦 · 商城轮播图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/024-32__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/024-32.jpg",
+        "label": "商城轮播图 32",
+        "segs": [
+            "/assets/works/ecommerce/024-32.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "哈德爱因斯坦 · 商城轮播图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/025-33__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/025-33.jpg",
+        "label": "商城轮播图 33",
+        "segs": [
+            "/assets/works/ecommerce/025-33.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "哈德爱因斯坦 · 商城轮播图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/026-34__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/026-34.jpg",
+        "label": "商城轮播图 34",
+        "segs": [
+            "/assets/works/ecommerce/026-34.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "哈德爱因斯坦 · 商城轮播图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/027-35__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/027-35.jpg",
+        "label": "商城轮播图 35",
+        "segs": [
+            "/assets/works/ecommerce/027-35.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "哈德爱因斯坦 · 商城轮播图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/028-36__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/028-36.jpg",
+        "label": "商城轮播图 36",
+        "segs": [
+            "/assets/works/ecommerce/028-36.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "哈德爱因斯坦 · 商城轮播图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/029-37__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/029-37.jpg",
+        "label": "商城轮播图 37",
+        "segs": [
+            "/assets/works/ecommerce/029-37.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "哈德爱因斯坦 · 商城轮播图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/030-Frame-10__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/030-Frame-10.jpg",
+        "label": "商城轮播图 Frame 10",
+        "segs": [
+            "/assets/works/ecommerce/030-Frame-10.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "哈德爱因斯坦 · 商城轮播图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/031-Frame-12__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/031-Frame-12.jpg",
+        "label": "商城轮播图 Frame 12",
+        "segs": [
+            "/assets/works/ecommerce/031-Frame-12.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "哈德爱因斯坦 · 商城轮播图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/032-Frame-8__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/032-Frame-8.jpg",
+        "label": "商城轮播图 Frame 8",
+        "segs": [
+            "/assets/works/ecommerce/032-Frame-8.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "哈德爱因斯坦 · 商城轮播图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/033-Frame-9__t.jpg",
+        "h": 900,
+        "w": 750,
+        "src": "/assets/works/ecommerce/033-Frame-9.jpg",
+        "label": "商城轮播图 Frame 9",
+        "segs": [
+            "/assets/works/ecommerce/033-Frame-9.jpg"
+        ],
+        "th": 600,
+        "cat": "ecommerce",
+        "group": "哈德爱因斯坦 · 商城轮播图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/017-1__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/017-1.jpg",
+        "label": "朋友圈海报 1",
+        "segs": [
+            "/assets/works/brand/017-1.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/018-10__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/018-10.jpg",
+        "label": "朋友圈海报 10",
+        "segs": [
+            "/assets/works/brand/018-10.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/019-11__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/019-11.jpg",
+        "label": "朋友圈海报 11",
+        "segs": [
+            "/assets/works/brand/019-11.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/020-12__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/020-12.jpg",
+        "label": "朋友圈海报 12",
+        "segs": [
+            "/assets/works/brand/020-12.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/021-13__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/021-13.jpg",
+        "label": "朋友圈海报 13",
+        "segs": [
+            "/assets/works/brand/021-13.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/022-14__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/022-14.jpg",
+        "label": "朋友圈海报 14",
+        "segs": [
+            "/assets/works/brand/022-14.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/023-15__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/023-15.jpg",
+        "label": "朋友圈海报 15",
+        "segs": [
+            "/assets/works/brand/023-15.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/024-16__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/024-16.jpg",
+        "label": "朋友圈海报 16",
+        "segs": [
+            "/assets/works/brand/024-16.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/025-17__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/025-17.jpg",
+        "label": "朋友圈海报 17",
+        "segs": [
+            "/assets/works/brand/025-17.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/026-18__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/026-18.jpg",
+        "label": "朋友圈海报 18",
+        "segs": [
+            "/assets/works/brand/026-18.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/027-19__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/027-19.jpg",
+        "label": "朋友圈海报 19",
+        "segs": [
+            "/assets/works/brand/027-19.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/028-2__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/028-2.jpg",
+        "label": "朋友圈海报 2",
+        "segs": [
+            "/assets/works/brand/028-2.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/029-20__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/029-20.jpg",
+        "label": "朋友圈海报 20",
+        "segs": [
+            "/assets/works/brand/029-20.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/030-21__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/030-21.jpg",
+        "label": "朋友圈海报 21",
+        "segs": [
+            "/assets/works/brand/030-21.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/031-22__t.jpg",
+        "h": 1880,
+        "w": 900,
+        "src": "/assets/works/brand/031-22.jpg",
+        "label": "朋友圈海报 22",
+        "segs": [
+            "/assets/works/brand/031-22.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/032-23__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/032-23.jpg",
+        "label": "朋友圈海报 23",
+        "segs": [
+            "/assets/works/brand/032-23.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/033-24__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/033-24.jpg",
+        "label": "朋友圈海报 24",
+        "segs": [
+            "/assets/works/brand/033-24.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/034-25__t.jpg",
+        "h": 1784,
+        "w": 900,
+        "src": "/assets/works/brand/034-25.jpg",
+        "label": "朋友圈海报 25",
+        "segs": [
+            "/assets/works/brand/034-25.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/035-26__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/035-26.jpg",
+        "label": "朋友圈海报 26",
+        "segs": [
+            "/assets/works/brand/035-26.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/036-27__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/036-27.jpg",
+        "label": "朋友圈海报 27",
+        "segs": [
+            "/assets/works/brand/036-27.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/037-28__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/037-28.jpg",
+        "label": "朋友圈海报 28",
+        "segs": [
+            "/assets/works/brand/037-28.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/038-29__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/038-29.jpg",
+        "label": "朋友圈海报 29",
+        "segs": [
+            "/assets/works/brand/038-29.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/039-3__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/039-3.jpg",
+        "label": "朋友圈海报 3",
+        "segs": [
+            "/assets/works/brand/039-3.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/040-30__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/040-30.jpg",
+        "label": "朋友圈海报 30",
+        "segs": [
+            "/assets/works/brand/040-30.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/041-31__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/041-31.jpg",
+        "label": "朋友圈海报 31",
+        "segs": [
+            "/assets/works/brand/041-31.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/042-32__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/042-32.jpg",
+        "label": "朋友圈海报 32",
+        "segs": [
+            "/assets/works/brand/042-32.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/043-33__t.jpg",
+        "h": 1574,
+        "w": 900,
+        "src": "/assets/works/brand/043-33.jpg",
+        "label": "朋友圈海报 33",
+        "segs": [
+            "/assets/works/brand/043-33.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/044-34__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/044-34.jpg",
+        "label": "朋友圈海报 34",
+        "segs": [
+            "/assets/works/brand/044-34.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/045-35__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/045-35.jpg",
+        "label": "朋友圈海报 35",
+        "segs": [
+            "/assets/works/brand/045-35.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/046-36__t.jpg",
+        "h": 1751,
+        "w": 900,
+        "src": "/assets/works/brand/046-36.jpg",
+        "label": "朋友圈海报 36",
+        "segs": [
+            "/assets/works/brand/046-36.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/047-4__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/047-4.jpg",
+        "label": "朋友圈海报 4",
+        "segs": [
+            "/assets/works/brand/047-4.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/048-5__t.jpg",
+        "h": 900,
+        "w": 900,
+        "src": "/assets/works/brand/048-5.jpg",
+        "label": "朋友圈海报 5",
+        "segs": [
+            "/assets/works/brand/048-5.jpg"
+        ],
+        "th": 500,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/049-6__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/049-6.jpg",
+        "label": "朋友圈海报 6",
+        "segs": [
+            "/assets/works/brand/049-6.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/050-7__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/050-7.jpg",
+        "label": "朋友圈海报 7",
+        "segs": [
+            "/assets/works/brand/050-7.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/051-8__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/051-8.jpg",
+        "label": "朋友圈海报 8",
+        "segs": [
+            "/assets/works/brand/051-8.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/052-9__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/052-9.jpg",
+        "label": "朋友圈海报 9",
+        "segs": [
+            "/assets/works/brand/052-9.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/053-__t.jpg",
+        "h": 184,
+        "w": 182,
+        "src": "/assets/works/brand/053-.jpg",
+        "label": "朋友圈海报 欢",
+        "segs": [
+            "/assets/works/brand/053-.jpg"
+        ],
+        "th": 505,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 社交媒体海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/054-Frame-1__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/054-Frame-1.jpg",
+        "label": "活动激活海报 Frame 1",
+        "segs": [
+            "/assets/works/brand/054-Frame-1.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 活动海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/055-Frame-2__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/055-Frame-2.jpg",
+        "label": "活动激活海报 Frame 2",
+        "segs": [
+            "/assets/works/brand/055-Frame-2.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 活动海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/056-Frame-3__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/056-Frame-3.jpg",
+        "label": "活动激活海报 Frame 3",
+        "segs": [
+            "/assets/works/brand/056-Frame-3.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 活动海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/057-Frame-4__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/057-Frame-4.jpg",
+        "label": "活动激活海报 Frame 4",
+        "segs": [
+            "/assets/works/brand/057-Frame-4.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 活动海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/034-__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/034-.jpg",
+        "label": "直播模块 直播头像",
+        "segs": [
+            "/assets/works/ecommerce/034-.jpg"
+        ],
+        "th": 500,
+        "cat": "beauty",
+        "group": "哈德爱因斯坦 · 直播物料",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/035-__t.jpg",
+        "h": 608,
+        "w": 1080,
+        "src": "/assets/works/ecommerce/035-.jpg",
+        "label": "直播模块 直播封面",
+        "segs": [
+            "/assets/works/ecommerce/035-.jpg"
+        ],
+        "th": 281,
+        "cat": "beauty",
+        "group": "哈德爱因斯坦 · 直播物料",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/036-__t.jpg",
+        "h": 717,
+        "w": 1080,
+        "src": "/assets/works/ecommerce/036-.jpg",
+        "label": "直播模块 直播福利",
+        "segs": [
+            "/assets/works/ecommerce/036-.jpg"
+        ],
+        "th": 332,
+        "cat": "beauty",
+        "group": "哈德爱因斯坦 · 直播物料",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/037-Frame-1__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/037-Frame-1.jpg",
+        "label": "主图 Frame 1",
+        "segs": [
+            "/assets/works/ecommerce/037-Frame-1.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/038-Frame-2__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/038-Frame-2.jpg",
+        "label": "主图 Frame 2",
+        "segs": [
+            "/assets/works/ecommerce/038-Frame-2.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/039-Frame-3__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/039-Frame-3.jpg",
+        "label": "主图 Frame 3",
+        "segs": [
+            "/assets/works/ecommerce/039-Frame-3.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/040-Frame-4__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/040-Frame-4.jpg",
+        "label": "主图 Frame 4",
+        "segs": [
+            "/assets/works/ecommerce/040-Frame-4.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/041-Frame-5__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/041-Frame-5.jpg",
+        "label": "主图 Frame 5",
+        "segs": [
+            "/assets/works/ecommerce/041-Frame-5.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/042-Frame-7__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/042-Frame-7.jpg",
+        "label": "主图 Frame 7",
+        "segs": [
+            "/assets/works/ecommerce/042-Frame-7.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/043-Frame-8__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/043-Frame-8.jpg",
+        "label": "主图 Frame 8",
+        "segs": [
+            "/assets/works/ecommerce/043-Frame-8.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/044-__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/ecommerce/044-.jpg",
+        "label": "直播背景贴片 直播背景预览",
+        "segs": [
+            "/assets/works/ecommerce/044-.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "哈德爱因斯坦 · 直播物料",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/045-Frame-6__t.jpg",
+        "h": 2000,
+        "w": 750,
+        "src": "/assets/works/ecommerce/045-Frame-6__s1.jpg",
+        "label": "详情页 Frame 6",
+        "segs": [
+            "/assets/works/ecommerce/045-Frame-6__s1.jpg",
+            "/assets/works/ecommerce/045-Frame-6__s2.jpg",
+            "/assets/works/ecommerce/045-Frame-6__s3.jpg",
+            "/assets/works/ecommerce/045-Frame-6__s4.jpg",
+            "/assets/works/ecommerce/045-Frame-6__s5.jpg"
+        ],
+        "th": 700,
+        "cat": "ecommerce",
+        "group": "详情页",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/058-Frame-1__t.jpg",
+        "h": 1727,
+        "w": 900,
+        "src": "/assets/works/brand/058-Frame-1.jpg",
+        "label": "直播激活海报 Frame 1",
+        "segs": [
+            "/assets/works/brand/058-Frame-1.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "哈德爱因斯坦 · 直播物料",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/059-Frame-2__t.jpg",
+        "h": 1804,
+        "w": 900,
+        "src": "/assets/works/brand/059-Frame-2.jpg",
+        "label": "直播激活海报 Frame 2",
+        "segs": [
+            "/assets/works/brand/059-Frame-2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "哈德爱因斯坦 · 直播物料",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/060-Frame-3__t.jpg",
+        "h": 1804,
+        "w": 900,
+        "src": "/assets/works/brand/060-Frame-3.jpg",
+        "label": "直播激活海报 Frame 3",
+        "segs": [
+            "/assets/works/brand/060-Frame-3.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "哈德爱因斯坦 · 直播物料",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/061-Frame-4__t.jpg",
+        "h": 1804,
+        "w": 900,
+        "src": "/assets/works/brand/061-Frame-4.jpg",
+        "label": "直播激活海报 Frame 4",
+        "segs": [
+            "/assets/works/brand/061-Frame-4.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "哈德爱因斯坦 · 直播物料",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/046-Frame-1__t.jpg",
+        "h": 2000,
+        "w": 750,
+        "src": "/assets/works/ecommerce/046-Frame-1__s1.jpg",
+        "label": "益生菌详情页 Frame 1",
+        "segs": [
+            "/assets/works/ecommerce/046-Frame-1__s1.jpg",
+            "/assets/works/ecommerce/046-Frame-1__s2.jpg",
+            "/assets/works/ecommerce/046-Frame-1__s3.jpg",
+            "/assets/works/ecommerce/046-Frame-1__s4.jpg",
+            "/assets/works/ecommerce/046-Frame-1__s5.jpg",
+            "/assets/works/ecommerce/046-Frame-1__s6.jpg"
+        ],
+        "th": 700,
+        "cat": "ecommerce",
+        "group": "详情页",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/062-Frame-1__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/062-Frame-1.jpg",
+        "label": "节气海报 Frame 1",
+        "segs": [
+            "/assets/works/brand/062-Frame-1.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "哈德爱因斯坦 · 节气海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/063-01__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/063-01.jpg",
+        "label": "汤臣倍健舒百宁 汤臣倍健纳豆红曲银杏叶胶囊01",
+        "segs": [
+            "/assets/works/brand/063-01.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "汤臣倍健舒百宁 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/064-02__t.jpg",
+        "h": 1788,
+        "w": 900,
+        "src": "/assets/works/brand/064-02.jpg",
+        "label": "汤臣倍健舒百宁 汤臣倍健纳豆红曲银杏叶胶囊02",
+        "segs": [
+            "/assets/works/brand/064-02.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "汤臣倍健舒百宁 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/065-03__t.jpg",
+        "h": 1858,
+        "w": 900,
+        "src": "/assets/works/brand/065-03.jpg",
+        "label": "汤臣倍健舒百宁 汤臣倍健纳豆红曲银杏叶胶囊03",
+        "segs": [
+            "/assets/works/brand/065-03.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "汤臣倍健舒百宁 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/066-04__t.jpg",
+        "h": 1791,
+        "w": 900,
+        "src": "/assets/works/brand/066-04.jpg",
+        "label": "汤臣倍健舒百宁 汤臣倍健纳豆红曲银杏叶胶囊04",
+        "segs": [
+            "/assets/works/brand/066-04.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "汤臣倍健舒百宁 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/067-05__t.jpg",
+        "h": 1737,
+        "w": 900,
+        "src": "/assets/works/brand/067-05.jpg",
+        "label": "汤臣倍健舒百宁 汤臣倍健纳豆红曲银杏叶胶囊05",
+        "segs": [
+            "/assets/works/brand/067-05.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "汤臣倍健舒百宁 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/068-06__t.jpg",
+        "h": 1737,
+        "w": 900,
+        "src": "/assets/works/brand/068-06.jpg",
+        "label": "汤臣倍健舒百宁 汤臣倍健纳豆红曲银杏叶胶囊06",
+        "segs": [
+            "/assets/works/brand/068-06.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "汤臣倍健舒百宁 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/069-07__t.jpg",
+        "h": 1655,
+        "w": 900,
+        "src": "/assets/works/brand/069-07.jpg",
+        "label": "汤臣倍健舒百宁 汤臣倍健纳豆红曲银杏叶胶囊07",
+        "segs": [
+            "/assets/works/brand/069-07.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "汤臣倍健舒百宁 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/070-08__t.jpg",
+        "h": 1817,
+        "w": 900,
+        "src": "/assets/works/brand/070-08.jpg",
+        "label": "汤臣倍健舒百宁 汤臣倍健纳豆红曲银杏叶胶囊08",
+        "segs": [
+            "/assets/works/brand/070-08.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "汤臣倍健舒百宁 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/071-09__t.jpg",
+        "h": 1800,
+        "w": 900,
+        "src": "/assets/works/brand/071-09.jpg",
+        "label": "汤臣倍健舒百宁 汤臣倍健纳豆红曲银杏叶胶囊09",
+        "segs": [
+            "/assets/works/brand/071-09.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "汤臣倍健舒百宁 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/072-10__t.jpg",
+        "h": 1492,
+        "w": 900,
+        "src": "/assets/works/brand/072-10.jpg",
+        "label": "汤臣倍健舒百宁 汤臣倍健纳豆红曲银杏叶胶囊10",
+        "segs": [
+            "/assets/works/brand/072-10.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "汤臣倍健舒百宁 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/brand/073-01__t.jpg",
+        "h": 1600,
+        "w": 900,
+        "src": "/assets/works/brand/073-01.jpg",
+        "label": "蒙牛一米八八 品宣海报01",
+        "segs": [
+            "/assets/works/brand/073-01.jpg"
+        ],
+        "th": 700,
+        "cat": "brand",
+        "group": "蒙牛一米八八 · 品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/047-vip__t.jpg",
+        "h": 525,
+        "w": 1000,
+        "src": "/assets/works/ecommerce/047-vip.jpg",
+        "label": "会员卡 vip",
+        "segs": [
+            "/assets/works/ecommerce/047-vip.jpg"
+        ],
+        "th": 262,
+        "cat": "beauty",
+        "group": "蒙牛一米八八 · 会员商城",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/048-__t.jpg",
+        "h": 557,
+        "w": 1007,
+        "src": "/assets/works/ecommerce/048-.jpg",
+        "label": "会员卡 金卡",
+        "segs": [
+            "/assets/works/ecommerce/048-.jpg"
+        ],
+        "th": 277,
+        "cat": "beauty",
+        "group": "蒙牛一米八八 · 会员商城",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/049-__t.jpg",
+        "h": 557,
+        "w": 1007,
+        "src": "/assets/works/ecommerce/049-.jpg",
+        "label": "会员卡 钻卡",
+        "segs": [
+            "/assets/works/ecommerce/049-.jpg"
+        ],
+        "th": 277,
+        "cat": "beauty",
+        "group": "蒙牛一米八八 · 会员商城",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/050-1__t.jpg",
+        "h": 557,
+        "w": 1007,
+        "src": "/assets/works/ecommerce/050-1.jpg",
+        "label": "会员卡 银卡-1",
+        "segs": [
+            "/assets/works/ecommerce/050-1.jpg"
+        ],
+        "th": 277,
+        "cat": "beauty",
+        "group": "蒙牛一米八八 · 会员商城",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/051-2__t.jpg",
+        "h": 557,
+        "w": 1007,
+        "src": "/assets/works/ecommerce/051-2.jpg",
+        "label": "会员卡 银卡-2",
+        "segs": [
+            "/assets/works/ecommerce/051-2.jpg"
+        ],
+        "th": 277,
+        "cat": "beauty",
+        "group": "蒙牛一米八八 · 会员商城",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/052-3__t.jpg",
+        "h": 557,
+        "w": 1007,
+        "src": "/assets/works/ecommerce/052-3.jpg",
+        "label": "会员卡 银卡-3",
+        "segs": [
+            "/assets/works/ecommerce/052-3.jpg"
+        ],
+        "th": 277,
+        "cat": "beauty",
+        "group": "蒙牛一米八八 · 会员商城",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/053-4__t.jpg",
+        "h": 557,
+        "w": 1007,
+        "src": "/assets/works/ecommerce/053-4.jpg",
+        "label": "会员卡 银卡-4",
+        "segs": [
+            "/assets/works/ecommerce/053-4.jpg"
+        ],
+        "th": 277,
+        "cat": "beauty",
+        "group": "蒙牛一米八八 · 会员商城",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/054-__t.jpg",
+        "h": 557,
+        "w": 1007,
+        "src": "/assets/works/ecommerce/054-.jpg",
+        "label": "会员卡 银卡",
+        "segs": [
+            "/assets/works/ecommerce/054-.jpg"
+        ],
+        "th": 277,
+        "cat": "beauty",
+        "group": "蒙牛一米八八 · 会员商城",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/055-Frame-13__t.jpg",
+        "h": 1641,
+        "w": 900,
+        "src": "/assets/works/ecommerce/055-Frame-13.jpg",
+        "label": "会员权益 Frame 13",
+        "segs": [
+            "/assets/works/ecommerce/055-Frame-13.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "蒙牛一米八八 · 会员商城",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/056-__t.jpg",
+        "h": 1641,
+        "w": 900,
+        "src": "/assets/works/ecommerce/056-.jpg",
+        "label": "会员权益 银卡会员权益",
+        "segs": [
+            "/assets/works/ecommerce/056-.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "蒙牛一米八八 · 会员商城",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/057-__t.jpg",
+        "h": 1641,
+        "w": 900,
+        "src": "/assets/works/ecommerce/057-.jpg",
+        "label": "会员权益 银卡会员权益补充说明",
+        "segs": [
+            "/assets/works/ecommerce/057-.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "蒙牛一米八八 · 会员商城",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/001-1__t.jpg",
+        "h": 2000,
+        "w": 900,
+        "src": "/assets/works/beauty/001-1__s1.jpg",
+        "label": "二裂酵母水海报 1",
+        "segs": [
+            "/assets/works/beauty/001-1__s1.jpg",
+            "/assets/works/beauty/001-1__s2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "二裂酵母水海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/002-2__t.jpg",
+        "h": 1709,
+        "w": 900,
+        "src": "/assets/works/beauty/002-2.jpg",
+        "label": "二裂酵母水海报 2",
+        "segs": [
+            "/assets/works/beauty/002-2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "二裂酵母水海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/003-3__t.jpg",
+        "h": 1709,
+        "w": 900,
+        "src": "/assets/works/beauty/003-3.jpg",
+        "label": "二裂酵母水海报 3",
+        "segs": [
+            "/assets/works/beauty/003-3.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "二裂酵母水海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/058-Frame-1__t.jpg",
+        "h": 2000,
+        "w": 790,
+        "src": "/assets/works/ecommerce/058-Frame-1__s1.jpg",
+        "label": "凝萃水润温变唇膏详情页+主图 Frame 1",
+        "segs": [
+            "/assets/works/ecommerce/058-Frame-1__s1.jpg",
+            "/assets/works/ecommerce/058-Frame-1__s2.jpg",
+            "/assets/works/ecommerce/058-Frame-1__s3.jpg",
+            "/assets/works/ecommerce/058-Frame-1__s4.jpg",
+            "/assets/works/ecommerce/058-Frame-1__s5.jpg",
+            "/assets/works/ecommerce/058-Frame-1__s6.jpg"
+        ],
+        "th": 700,
+        "cat": "ecommerce",
+        "group": "详情页",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/059-800px1__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/059-800px1.jpg",
+        "label": "凝萃水润温变唇膏详情页+主图 主图800px1",
+        "segs": [
+            "/assets/works/ecommerce/059-800px1.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/060-800px2__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/060-800px2.jpg",
+        "label": "凝萃水润温变唇膏详情页+主图 主图800px2",
+        "segs": [
+            "/assets/works/ecommerce/060-800px2.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/061-800px3__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/061-800px3.jpg",
+        "label": "凝萃水润温变唇膏详情页+主图 主图800px3",
+        "segs": [
+            "/assets/works/ecommerce/061-800px3.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/062-800px4__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/062-800px4.jpg",
+        "label": "凝萃水润温变唇膏详情页+主图 主图800px4",
+        "segs": [
+            "/assets/works/ecommerce/062-800px4.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/063-800px5__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/063-800px5.jpg",
+        "label": "凝萃水润温变唇膏详情页+主图 主图800px5",
+        "segs": [
+            "/assets/works/ecommerce/063-800px5.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/004-1__t.jpg",
+        "h": 1944,
+        "w": 900,
+        "src": "/assets/works/beauty/004-1.jpg",
+        "label": "创面敷贴海报 1",
+        "segs": [
+            "/assets/works/beauty/004-1.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "创面敷贴海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/005-2__t.jpg",
+        "h": 1944,
+        "w": 900,
+        "src": "/assets/works/beauty/005-2.jpg",
+        "label": "创面敷贴海报 2",
+        "segs": [
+            "/assets/works/beauty/005-2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "创面敷贴海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/006-3__t.jpg",
+        "h": 1944,
+        "w": 900,
+        "src": "/assets/works/beauty/006-3.jpg",
+        "label": "创面敷贴海报 3",
+        "segs": [
+            "/assets/works/beauty/006-3.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "创面敷贴海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/007-4__t.jpg",
+        "h": 1944,
+        "w": 900,
+        "src": "/assets/works/beauty/007-4.jpg",
+        "label": "创面敷贴海报 4",
+        "segs": [
+            "/assets/works/beauty/007-4.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "创面敷贴海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/008-5__t.jpg",
+        "h": 1944,
+        "w": 900,
+        "src": "/assets/works/beauty/008-5.jpg",
+        "label": "创面敷贴海报 5",
+        "segs": [
+            "/assets/works/beauty/008-5.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "创面敷贴海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/009-1__t.jpg",
+        "h": 1721,
+        "w": 900,
+        "src": "/assets/works/beauty/009-1.jpg",
+        "label": "发热面膜海报 1",
+        "segs": [
+            "/assets/works/beauty/009-1.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "发热面膜海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/010-2__t.jpg",
+        "h": 1721,
+        "w": 900,
+        "src": "/assets/works/beauty/010-2.jpg",
+        "label": "发热面膜海报 2",
+        "segs": [
+            "/assets/works/beauty/010-2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "发热面膜海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/011-3__t.jpg",
+        "h": 1721,
+        "w": 900,
+        "src": "/assets/works/beauty/011-3.jpg",
+        "label": "发热面膜海报 3",
+        "segs": [
+            "/assets/works/beauty/011-3.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "发热面膜海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/012-1__t.jpg",
+        "h": 1857,
+        "w": 900,
+        "src": "/assets/works/beauty/012-1.jpg",
+        "label": "格恩纳水光品宣海报 1",
+        "segs": [
+            "/assets/works/beauty/012-1.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "格恩纳水光品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/013-2__t.jpg",
+        "h": 1857,
+        "w": 900,
+        "src": "/assets/works/beauty/013-2.jpg",
+        "label": "格恩纳水光品宣海报 2",
+        "segs": [
+            "/assets/works/beauty/013-2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "格恩纳水光品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/014-3__t.jpg",
+        "h": 1857,
+        "w": 900,
+        "src": "/assets/works/beauty/014-3.jpg",
+        "label": "格恩纳水光品宣海报 3",
+        "segs": [
+            "/assets/works/beauty/014-3.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "格恩纳水光品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/015-1__t.jpg",
+        "h": 1819,
+        "w": 900,
+        "src": "/assets/works/beauty/015-1.jpg",
+        "label": "气垫散粉海报 1",
+        "segs": [
+            "/assets/works/beauty/015-1.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "气垫散粉海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/016-2__t.jpg",
+        "h": 1819,
+        "w": 900,
+        "src": "/assets/works/beauty/016-2.jpg",
+        "label": "气垫散粉海报 2",
+        "segs": [
+            "/assets/works/beauty/016-2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "气垫散粉海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/017-3__t.jpg",
+        "h": 1819,
+        "w": 900,
+        "src": "/assets/works/beauty/017-3.jpg",
+        "label": "气垫散粉海报 3",
+        "segs": [
+            "/assets/works/beauty/017-3.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "气垫散粉海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/018-4__t.jpg",
+        "h": 1819,
+        "w": 900,
+        "src": "/assets/works/beauty/018-4.jpg",
+        "label": "气垫散粉海报 4",
+        "segs": [
+            "/assets/works/beauty/018-4.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "气垫散粉海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/019-5__t.jpg",
+        "h": 1819,
+        "w": 900,
+        "src": "/assets/works/beauty/019-5.jpg",
+        "label": "气垫散粉海报 5",
+        "segs": [
+            "/assets/works/beauty/019-5.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "气垫散粉海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/020-6__t.jpg",
+        "h": 1819,
+        "w": 900,
+        "src": "/assets/works/beauty/020-6.jpg",
+        "label": "气垫散粉海报 6",
+        "segs": [
+            "/assets/works/beauty/020-6.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "气垫散粉海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/021-7__t.jpg",
+        "h": 1819,
+        "w": 900,
+        "src": "/assets/works/beauty/021-7.jpg",
+        "label": "气垫散粉海报 7",
+        "segs": [
+            "/assets/works/beauty/021-7.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "气垫散粉海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/022-8__t.jpg",
+        "h": 1819,
+        "w": 900,
+        "src": "/assets/works/beauty/022-8.jpg",
+        "label": "气垫散粉海报 8",
+        "segs": [
+            "/assets/works/beauty/022-8.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "气垫散粉海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/023-1__t.jpg",
+        "h": 1843,
+        "w": 900,
+        "src": "/assets/works/beauty/023-1.jpg",
+        "label": "水光品宣海报 1",
+        "segs": [
+            "/assets/works/beauty/023-1.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "水光品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/024-2__t.jpg",
+        "h": 1843,
+        "w": 900,
+        "src": "/assets/works/beauty/024-2.jpg",
+        "label": "水光品宣海报 2",
+        "segs": [
+            "/assets/works/beauty/024-2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "水光品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/025-3__t.jpg",
+        "h": 1843,
+        "w": 900,
+        "src": "/assets/works/beauty/025-3.jpg",
+        "label": "水光品宣海报 3",
+        "segs": [
+            "/assets/works/beauty/025-3.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "水光品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/026-4__t.jpg",
+        "h": 1843,
+        "w": 900,
+        "src": "/assets/works/beauty/026-4.jpg",
+        "label": "水光品宣海报 4",
+        "segs": [
+            "/assets/works/beauty/026-4.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "水光品宣海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/064-1__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/064-1.jpg",
+        "label": "活动护肤套盒详情页+主图 主图1",
+        "segs": [
+            "/assets/works/ecommerce/064-1.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/065-2__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/065-2.jpg",
+        "label": "活动护肤套盒详情页+主图 主图2",
+        "segs": [
+            "/assets/works/ecommerce/065-2.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/066-3__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/066-3.jpg",
+        "label": "活动护肤套盒详情页+主图 主图3",
+        "segs": [
+            "/assets/works/ecommerce/066-3.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/067-4__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/067-4.jpg",
+        "label": "活动护肤套盒详情页+主图 主图4",
+        "segs": [
+            "/assets/works/ecommerce/067-4.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/068-5__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/068-5.jpg",
+        "label": "活动护肤套盒详情页+主图 主图5",
+        "segs": [
+            "/assets/works/ecommerce/068-5.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/069-__t.jpg",
+        "h": 2000,
+        "w": 750,
+        "src": "/assets/works/ecommerce/069-__s1.jpg",
+        "label": "活动护肤套盒详情页+主图 详情页",
+        "segs": [
+            "/assets/works/ecommerce/069-__s1.jpg",
+            "/assets/works/ecommerce/069-__s2.jpg",
+            "/assets/works/ecommerce/069-__s3.jpg",
+            "/assets/works/ecommerce/069-__s4.jpg",
+            "/assets/works/ecommerce/069-__s5.jpg",
+            "/assets/works/ecommerce/069-__s6.jpg",
+            "/assets/works/ecommerce/069-__s7.jpg"
+        ],
+        "th": 700,
+        "cat": "ecommerce",
+        "group": "详情页",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/027-1__t.jpg",
+        "h": 2000,
+        "w": 900,
+        "src": "/assets/works/beauty/027-1__s1.jpg",
+        "label": "活动海报 1",
+        "segs": [
+            "/assets/works/beauty/027-1__s1.jpg",
+            "/assets/works/beauty/027-1__s2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "活动海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/028-2__t.jpg",
+        "h": 2000,
+        "w": 900,
+        "src": "/assets/works/beauty/028-2__s1.jpg",
+        "label": "活动海报 2",
+        "segs": [
+            "/assets/works/beauty/028-2__s1.jpg",
+            "/assets/works/beauty/028-2__s2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "活动海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/029-3__t.jpg",
+        "h": 2000,
+        "w": 900,
+        "src": "/assets/works/beauty/029-3__s1.jpg",
+        "label": "活动海报 3",
+        "segs": [
+            "/assets/works/beauty/029-3__s1.jpg",
+            "/assets/works/beauty/029-3__s2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "活动海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/030-__t.jpg",
+        "h": 2000,
+        "w": 900,
+        "src": "/assets/works/beauty/030-__s1.jpg",
+        "label": "活动海报 液补活动",
+        "segs": [
+            "/assets/works/beauty/030-__s1.jpg",
+            "/assets/works/beauty/030-__s2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "活动海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/031-__t.jpg",
+        "h": 1937,
+        "w": 900,
+        "src": "/assets/works/beauty/031-.jpg",
+        "label": "活动海报 订货活动",
+        "segs": [
+            "/assets/works/beauty/031-.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "活动海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/032-02__t.jpg",
+        "h": 2000,
+        "w": 900,
+        "src": "/assets/works/beauty/032-02__s1.jpg",
+        "label": "活动海报 订货活动02",
+        "segs": [
+            "/assets/works/beauty/032-02__s1.jpg",
+            "/assets/works/beauty/032-02__s2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "活动海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/033-1__t.jpg",
+        "h": 1786,
+        "w": 900,
+        "src": "/assets/works/beauty/033-1.jpg",
+        "label": "玻色因抗皱套盒海报 1",
+        "segs": [
+            "/assets/works/beauty/033-1.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "玻色因抗皱套盒海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/034-2__t.jpg",
+        "h": 1786,
+        "w": 900,
+        "src": "/assets/works/beauty/034-2.jpg",
+        "label": "玻色因抗皱套盒海报 2",
+        "segs": [
+            "/assets/works/beauty/034-2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "玻色因抗皱套盒海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/035-4__t.jpg",
+        "h": 1786,
+        "w": 900,
+        "src": "/assets/works/beauty/035-4.jpg",
+        "label": "玻色因抗皱套盒海报 4",
+        "segs": [
+            "/assets/works/beauty/035-4.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "玻色因抗皱套盒海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/036-5__t.jpg",
+        "h": 1786,
+        "w": 900,
+        "src": "/assets/works/beauty/036-5.jpg",
+        "label": "玻色因抗皱套盒海报 5",
+        "segs": [
+            "/assets/works/beauty/036-5.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "玻色因抗皱套盒海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/037-6__t.jpg",
+        "h": 1786,
+        "w": 900,
+        "src": "/assets/works/beauty/037-6.jpg",
+        "label": "玻色因抗皱套盒海报 6",
+        "segs": [
+            "/assets/works/beauty/037-6.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "玻色因抗皱套盒海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/038-1__t.jpg",
+        "h": 960,
+        "w": 1440,
+        "src": "/assets/works/beauty/038-1.jpg",
+        "label": "玻色因抗皱礼盒黑盒 1",
+        "segs": [
+            "/assets/works/beauty/038-1.jpg"
+        ],
+        "th": 333,
+        "cat": "beauty",
+        "group": "玻色因抗皱礼盒黑盒",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/070-1__t.jpg",
+        "h": 2000,
+        "w": 750,
+        "src": "/assets/works/ecommerce/070-1__s1.jpg",
+        "label": "玻色因护肤套盒详情页 1",
+        "segs": [
+            "/assets/works/ecommerce/070-1__s1.jpg",
+            "/assets/works/ecommerce/070-1__s2.jpg",
+            "/assets/works/ecommerce/070-1__s3.jpg",
+            "/assets/works/ecommerce/070-1__s4.jpg",
+            "/assets/works/ecommerce/070-1__s5.jpg",
+            "/assets/works/ecommerce/070-1__s6.jpg"
+        ],
+        "th": 700,
+        "cat": "ecommerce",
+        "group": "详情页",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/039-1__t.jpg",
+        "h": 1808,
+        "w": 900,
+        "src": "/assets/works/beauty/039-1.jpg",
+        "label": "生姜洗护海报 1",
+        "segs": [
+            "/assets/works/beauty/039-1.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "生姜洗护海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/040-2__t.jpg",
+        "h": 1808,
+        "w": 900,
+        "src": "/assets/works/beauty/040-2.jpg",
+        "label": "生姜洗护海报 2",
+        "segs": [
+            "/assets/works/beauty/040-2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "生姜洗护海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/041-3__t.jpg",
+        "h": 1621,
+        "w": 900,
+        "src": "/assets/works/beauty/041-3.jpg",
+        "label": "生姜洗护海报 3",
+        "segs": [
+            "/assets/works/beauty/041-3.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "生姜洗护海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/042-1__t.jpg",
+        "h": 1837,
+        "w": 900,
+        "src": "/assets/works/beauty/042-1.jpg",
+        "label": "石墨烯面膜 1",
+        "segs": [
+            "/assets/works/beauty/042-1.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "石墨烯面膜",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/043-2__t.jpg",
+        "h": 1837,
+        "w": 900,
+        "src": "/assets/works/beauty/043-2.jpg",
+        "label": "石墨烯面膜 2",
+        "segs": [
+            "/assets/works/beauty/043-2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "石墨烯面膜",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/044-1__t.jpg",
+        "h": 1948,
+        "w": 900,
+        "src": "/assets/works/beauty/044-1.jpg",
+        "label": "科普类海报 1",
+        "segs": [
+            "/assets/works/beauty/044-1.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "科普类海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/045-2__t.jpg",
+        "h": 1867,
+        "w": 900,
+        "src": "/assets/works/beauty/045-2.jpg",
+        "label": "科普类海报 2",
+        "segs": [
+            "/assets/works/beauty/045-2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "科普类海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/046-3__t.jpg",
+        "h": 1867,
+        "w": 900,
+        "src": "/assets/works/beauty/046-3.jpg",
+        "label": "科普类海报 3",
+        "segs": [
+            "/assets/works/beauty/046-3.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "科普类海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/047-4__t.jpg",
+        "h": 1867,
+        "w": 900,
+        "src": "/assets/works/beauty/047-4.jpg",
+        "label": "科普类海报 4",
+        "segs": [
+            "/assets/works/beauty/047-4.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "科普类海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/048-5__t.jpg",
+        "h": 1440,
+        "w": 1078,
+        "src": "/assets/works/beauty/048-5.jpg",
+        "label": "科普类海报 5",
+        "segs": [
+            "/assets/works/beauty/048-5.jpg"
+        ],
+        "th": 668,
+        "cat": "beauty",
+        "group": "科普类海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/049-6__t.jpg",
+        "h": 1628,
+        "w": 900,
+        "src": "/assets/works/beauty/049-6.jpg",
+        "label": "科普类海报 6",
+        "segs": [
+            "/assets/works/beauty/049-6.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "科普类海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/050-1__t.jpg",
+        "h": 1739,
+        "w": 900,
+        "src": "/assets/works/beauty/050-1.jpg",
+        "label": "精华液海报 1",
+        "segs": [
+            "/assets/works/beauty/050-1.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "精华液海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/051-2__t.jpg",
+        "h": 1739,
+        "w": 900,
+        "src": "/assets/works/beauty/051-2.jpg",
+        "label": "精华液海报 2",
+        "segs": [
+            "/assets/works/beauty/051-2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "精华液海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/052-3__t.jpg",
+        "h": 1739,
+        "w": 900,
+        "src": "/assets/works/beauty/052-3.jpg",
+        "label": "精华液海报 3",
+        "segs": [
+            "/assets/works/beauty/052-3.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "精华液海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/071-1__t.jpg",
+        "h": 2000,
+        "w": 750,
+        "src": "/assets/works/ecommerce/071-1__s1.jpg",
+        "label": "纳米套盒单品详情页主图 1",
+        "segs": [
+            "/assets/works/ecommerce/071-1__s1.jpg",
+            "/assets/works/ecommerce/071-1__s2.jpg",
+            "/assets/works/ecommerce/071-1__s3.jpg",
+            "/assets/works/ecommerce/071-1__s4.jpg",
+            "/assets/works/ecommerce/071-1__s5.jpg",
+            "/assets/works/ecommerce/071-1__s6.jpg"
+        ],
+        "th": 700,
+        "cat": "ecommerce",
+        "group": "详情页",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/072-1__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/072-1.jpg",
+        "label": "纳米套盒单品详情页主图 主图1",
+        "segs": [
+            "/assets/works/ecommerce/072-1.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/073-2__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/073-2.jpg",
+        "label": "纳米套盒单品详情页主图 主图2",
+        "segs": [
+            "/assets/works/ecommerce/073-2.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/074-3__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/074-3.jpg",
+        "label": "纳米套盒单品详情页主图 主图3",
+        "segs": [
+            "/assets/works/ecommerce/074-3.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/ecommerce/075-4__t.jpg",
+        "h": 800,
+        "w": 800,
+        "src": "/assets/works/ecommerce/075-4.jpg",
+        "label": "纳米套盒单品详情页主图 主图4",
+        "segs": [
+            "/assets/works/ecommerce/075-4.jpg"
+        ],
+        "th": 500,
+        "cat": "ecommerce",
+        "group": "主图",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/053-1__t.jpg",
+        "h": 1800,
+        "w": 900,
+        "src": "/assets/works/beauty/053-1.jpg",
+        "label": "胶原多肽冰膜贴 1",
+        "segs": [
+            "/assets/works/beauty/053-1.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "胶原多肽冰膜贴",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/054-2__t.jpg",
+        "h": 1802,
+        "w": 900,
+        "src": "/assets/works/beauty/054-2.jpg",
+        "label": "胶原多肽冰膜贴 2",
+        "segs": [
+            "/assets/works/beauty/054-2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "胶原多肽冰膜贴",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/055-3__t.jpg",
+        "h": 1802,
+        "w": 900,
+        "src": "/assets/works/beauty/055-3.jpg",
+        "label": "胶原多肽冰膜贴 3",
+        "segs": [
+            "/assets/works/beauty/055-3.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "胶原多肽冰膜贴",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/056-1__t.jpg",
+        "h": 1800,
+        "w": 900,
+        "src": "/assets/works/beauty/056-1.jpg",
+        "label": "茶膜海报 1",
+        "segs": [
+            "/assets/works/beauty/056-1.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "茶膜海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/057-2__t.jpg",
+        "h": 1800,
+        "w": 900,
+        "src": "/assets/works/beauty/057-2.jpg",
+        "label": "茶膜海报 2",
+        "segs": [
+            "/assets/works/beauty/057-2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "茶膜海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/058-3__t.jpg",
+        "h": 1800,
+        "w": 900,
+        "src": "/assets/works/beauty/058-3.jpg",
+        "label": "茶膜海报 3",
+        "segs": [
+            "/assets/works/beauty/058-3.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "茶膜海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/059-4__t.jpg",
+        "h": 1800,
+        "w": 900,
+        "src": "/assets/works/beauty/059-4.jpg",
+        "label": "茶膜海报 4",
+        "segs": [
+            "/assets/works/beauty/059-4.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "茶膜海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/060-1__t.jpg",
+        "h": 1946,
+        "w": 900,
+        "src": "/assets/works/beauty/060-1.jpg",
+        "label": "贵妇膏海报 1",
+        "segs": [
+            "/assets/works/beauty/060-1.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "贵妇膏海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/061-2__t.jpg",
+        "h": 1946,
+        "w": 900,
+        "src": "/assets/works/beauty/061-2.jpg",
+        "label": "贵妇膏海报 2",
+        "segs": [
+            "/assets/works/beauty/061-2.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "贵妇膏海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/062-3__t.jpg",
+        "h": 1946,
+        "w": 900,
+        "src": "/assets/works/beauty/062-3.jpg",
+        "label": "贵妇膏海报 3",
+        "segs": [
+            "/assets/works/beauty/062-3.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "贵妇膏海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/063-4__t.jpg",
+        "h": 1946,
+        "w": 900,
+        "src": "/assets/works/beauty/063-4.jpg",
+        "label": "贵妇膏海报 4",
+        "segs": [
+            "/assets/works/beauty/063-4.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "贵妇膏海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/beauty/064-image-1__t.jpg",
+        "h": 1946,
+        "w": 900,
+        "src": "/assets/works/beauty/064-image-1.jpg",
+        "label": "贵妇膏海报 image 1",
+        "segs": [
+            "/assets/works/beauty/064-image-1.jpg"
+        ],
+        "th": 700,
+        "cat": "beauty",
+        "group": "贵妇膏海报",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/001-01__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/001-01.jpg",
+        "label": "平面作品集 01",
+        "segs": [
+            "/assets/works/graphic/001-01.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/003-03__t.jpg",
+        "h": 900,
+        "w": 1584,
+        "src": "/assets/works/graphic/003-03.jpg",
+        "label": "平面作品集 03",
+        "segs": [
+            "/assets/works/graphic/003-03.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/004-04__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/004-04.jpg",
+        "label": "平面作品集 04",
+        "segs": [
+            "/assets/works/graphic/004-04.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/005-05__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/005-05.jpg",
+        "label": "平面作品集 05",
+        "segs": [
+            "/assets/works/graphic/005-05.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/006-06__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/006-06.jpg",
+        "label": "平面作品集 06",
+        "segs": [
+            "/assets/works/graphic/006-06.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/007-07__t.jpg",
+        "h": 900,
+        "w": 1584,
+        "src": "/assets/works/graphic/007-07.jpg",
+        "label": "平面作品集 07",
+        "segs": [
+            "/assets/works/graphic/007-07.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/008-08__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/008-08.jpg",
+        "label": "平面作品集 08",
+        "segs": [
+            "/assets/works/graphic/008-08.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/009-09__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/009-09.jpg",
+        "label": "平面作品集 09",
+        "segs": [
+            "/assets/works/graphic/009-09.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/010-10__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/010-10.jpg",
+        "label": "平面作品集 10",
+        "segs": [
+            "/assets/works/graphic/010-10.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/011-11__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/011-11.jpg",
+        "label": "平面作品集 11",
+        "segs": [
+            "/assets/works/graphic/011-11.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/012-12__t.jpg",
+        "h": 900,
+        "w": 1584,
+        "src": "/assets/works/graphic/012-12.jpg",
+        "label": "平面作品集 12",
+        "segs": [
+            "/assets/works/graphic/012-12.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/013-13__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/013-13.jpg",
+        "label": "平面作品集 13",
+        "segs": [
+            "/assets/works/graphic/013-13.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/014-14__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/014-14.jpg",
+        "label": "平面作品集 14",
+        "segs": [
+            "/assets/works/graphic/014-14.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/015-15__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/015-15.jpg",
+        "label": "平面作品集 15",
+        "segs": [
+            "/assets/works/graphic/015-15.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/016-16__t.jpg",
+        "h": 900,
+        "w": 1584,
+        "src": "/assets/works/graphic/016-16.jpg",
+        "label": "平面作品集 16",
+        "segs": [
+            "/assets/works/graphic/016-16.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/017-17__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/017-17.jpg",
+        "label": "平面作品集 17",
+        "segs": [
+            "/assets/works/graphic/017-17.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/018-18__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/018-18.jpg",
+        "label": "平面作品集 18",
+        "segs": [
+            "/assets/works/graphic/018-18.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/019-19__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/019-19.jpg",
+        "label": "平面作品集 19",
+        "segs": [
+            "/assets/works/graphic/019-19.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/020-20__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/020-20.jpg",
+        "label": "平面作品集 20",
+        "segs": [
+            "/assets/works/graphic/020-20.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/021-21__t.jpg",
+        "h": 900,
+        "w": 1584,
+        "src": "/assets/works/graphic/021-21.jpg",
+        "label": "平面作品集 21",
+        "segs": [
+            "/assets/works/graphic/021-21.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/022-22__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/022-22.jpg",
+        "label": "平面作品集 22",
+        "segs": [
+            "/assets/works/graphic/022-22.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/023-23__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/023-23.jpg",
+        "label": "平面作品集 23",
+        "segs": [
+            "/assets/works/graphic/023-23.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/024-24__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/024-24.jpg",
+        "label": "平面作品集 24",
+        "segs": [
+            "/assets/works/graphic/024-24.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/025-25__t.jpg",
+        "h": 900,
+        "w": 1584,
+        "src": "/assets/works/graphic/025-25.jpg",
+        "label": "平面作品集 25",
+        "segs": [
+            "/assets/works/graphic/025-25.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/026-26__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/026-26.jpg",
+        "label": "平面作品集 26",
+        "segs": [
+            "/assets/works/graphic/026-26.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "thumb": "/assets/works/graphic/027-27__t.jpg",
+        "h": 900,
+        "w": 1582,
+        "src": "/assets/works/graphic/027-27.jpg",
+        "label": "平面作品集 27",
+        "segs": [
+            "/assets/works/graphic/027-27.jpg"
+        ],
+        "th": 284,
+        "cat": "graphic",
+        "group": "平面作品集",
+        "tw": 500
+    },
+    {
+        "cat": "ai",
+        "group": "ai品牌IP设计",
+        "src": "/assets/works/ai/001-ip-01.webp",
+        "segs": [
+            "/assets/works/ai/001-ip-01.webp"
+        ],
+        "thumb": "/assets/works/ai/001-ip-01__t.jpg",
+        "tw": 500,
+        "th": 281,
+        "label": "ai品牌IP设计 1",
+        "w": 1080,
+        "h": 608
+    },
+    {
+        "cat": "ai",
+        "group": "ai品牌IP设计",
+        "src": "/assets/works/ai/002-ip-02.webp",
+        "segs": [
+            "/assets/works/ai/002-ip-02.webp"
+        ],
+        "thumb": "/assets/works/ai/002-ip-02__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai品牌IP设计 2",
+        "w": 900,
+        "h": 1568
+    },
+    {
+        "cat": "ai",
+        "group": "ai品牌IP设计",
+        "src": "/assets/works/ai/003-ip-03.webp",
+        "segs": [
+            "/assets/works/ai/003-ip-03.webp"
+        ],
+        "thumb": "/assets/works/ai/003-ip-03__t.jpg",
+        "tw": 500,
+        "th": 692,
+        "label": "ai品牌IP设计 3",
+        "w": 1039,
+        "h": 1440
+    },
+    {
+        "cat": "ai",
+        "group": "ai品牌IP设计",
+        "src": "/assets/works/ai/004-ip-04.webp",
+        "segs": [
+            "/assets/works/ai/004-ip-04.webp"
+        ],
+        "thumb": "/assets/works/ai/004-ip-04__t.jpg",
+        "tw": 500,
+        "th": 618,
+        "label": "ai品牌IP设计 4",
+        "w": 1080,
+        "h": 1335
+    },
+    {
+        "cat": "ai",
+        "group": "ai品牌IP设计",
+        "src": "/assets/works/ai/005-ip-05.webp",
+        "segs": [
+            "/assets/works/ai/005-ip-05.webp"
+        ],
+        "thumb": "/assets/works/ai/005-ip-05__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai品牌IP设计 5",
+        "w": 900,
+        "h": 1933
+    },
+    {
+        "cat": "ai",
+        "group": "ai品牌IP设计",
+        "src": "/assets/works/ai/006-ip-06.webp",
+        "segs": [
+            "/assets/works/ai/006-ip-06.webp"
+        ],
+        "thumb": "/assets/works/ai/006-ip-06__t.jpg",
+        "tw": 500,
+        "th": 226,
+        "label": "ai品牌IP设计 6",
+        "w": 1080,
+        "h": 489
+    },
+    {
+        "cat": "ai",
+        "group": "ai品牌IP设计",
+        "src": "/assets/works/ai/007-ip-07__s1.webp",
+        "segs": [
+            "/assets/works/ai/007-ip-07__s1.webp",
+            "/assets/works/ai/007-ip-07__s2.webp"
+        ],
+        "thumb": "/assets/works/ai/007-ip-07__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai品牌IP设计 7",
+        "w": 900,
+        "h": 2000
+    },
+    {
+        "cat": "ai",
+        "group": "ai白膜渲染",
+        "src": "/assets/works/ai/008-white-before-01.jpg",
+        "segs": [
+            "/assets/works/ai/008-white-before-01.jpg"
+        ],
+        "thumb": "/assets/works/ai/008-white-before-01__t.jpg",
+        "tw": 500,
+        "th": 668,
+        "label": "ai白膜渲染 渲染前01",
+        "w": 1077,
+        "h": 1440
+    },
+    {
+        "cat": "ai",
+        "group": "ai白膜渲染",
+        "src": "/assets/works/ai/009-white-before-02.webp",
+        "segs": [
+            "/assets/works/ai/009-white-before-02.webp"
+        ],
+        "thumb": "/assets/works/ai/009-white-before-02__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai白膜渲染 渲染前02",
+        "w": 990,
+        "h": 1440
+    },
+    {
+        "cat": "ai",
+        "group": "ai白膜渲染",
+        "src": "/assets/works/ai/010-white-before-03.jpg",
+        "segs": [
+            "/assets/works/ai/010-white-before-03.jpg"
+        ],
+        "thumb": "/assets/works/ai/010-white-before-03__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai白膜渲染 渲染前03",
+        "w": 900,
+        "h": 1600
+    },
+    {
+        "cat": "ai",
+        "group": "ai白膜渲染",
+        "src": "/assets/works/ai/011-white-before-04.webp",
+        "segs": [
+            "/assets/works/ai/011-white-before-04.webp"
+        ],
+        "thumb": "/assets/works/ai/011-white-before-04__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai白膜渲染 渲染前04",
+        "w": 900,
+        "h": 1500
+    },
+    {
+        "cat": "ai",
+        "group": "ai白膜渲染",
+        "src": "/assets/works/ai/012-white-before-05.webp",
+        "segs": [
+            "/assets/works/ai/012-white-before-05.webp"
+        ],
+        "thumb": "/assets/works/ai/012-white-before-05__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai白膜渲染 渲染前05",
+        "w": 900,
+        "h": 1500
+    },
+    {
+        "cat": "ai",
+        "group": "ai白膜渲染",
+        "src": "/assets/works/ai/013-white-before-06.jpg",
+        "segs": [
+            "/assets/works/ai/013-white-before-06.jpg"
+        ],
+        "thumb": "/assets/works/ai/013-white-before-06__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai白膜渲染 渲染前06",
+        "w": 900,
+        "h": 1398
+    },
+    {
+        "cat": "ai",
+        "group": "ai白膜渲染",
+        "src": "/assets/works/ai/014-white-before-07.webp",
+        "segs": [
+            "/assets/works/ai/014-white-before-07.webp"
+        ],
+        "thumb": "/assets/works/ai/014-white-before-07__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai白膜渲染 渲染前07",
+        "w": 900,
+        "h": 1618
+    },
+    {
+        "cat": "ai",
+        "group": "ai白膜渲染",
+        "src": "/assets/works/ai/015-white-before-08.webp",
+        "segs": [
+            "/assets/works/ai/015-white-before-08.webp"
+        ],
+        "thumb": "/assets/works/ai/015-white-before-08__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai白膜渲染 渲染前08",
+        "w": 960,
+        "h": 1440
+    },
+    {
+        "cat": "ai",
+        "group": "ai白膜渲染",
+        "src": "/assets/works/ai/016-white-before-09.webp",
+        "segs": [
+            "/assets/works/ai/016-white-before-09.webp"
+        ],
+        "thumb": "/assets/works/ai/016-white-before-09__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai白膜渲染 渲染前09",
+        "w": 981,
+        "h": 1440
+    },
+    {
+        "cat": "ai",
+        "group": "ai白膜渲染",
+        "src": "/assets/works/ai/017-white-after-01.jpg",
+        "segs": [
+            "/assets/works/ai/017-white-after-01.jpg"
+        ],
+        "thumb": "/assets/works/ai/017-white-after-01__t.jpg",
+        "tw": 500,
+        "th": 668,
+        "label": "ai白膜渲染 渲染后01",
+        "w": 1077,
+        "h": 1440
+    },
+    {
+        "cat": "ai",
+        "group": "ai白膜渲染",
+        "src": "/assets/works/ai/018-white-after-02.jpg",
+        "segs": [
+            "/assets/works/ai/018-white-after-02.jpg"
+        ],
+        "thumb": "/assets/works/ai/018-white-after-02__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai白膜渲染 渲染后02",
+        "w": 988,
+        "h": 1440
+    },
+    {
+        "cat": "ai",
+        "group": "ai白膜渲染",
+        "src": "/assets/works/ai/019-white-after-03.jpg",
+        "segs": [
+            "/assets/works/ai/019-white-after-03.jpg"
+        ],
+        "thumb": "/assets/works/ai/019-white-after-03__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai白膜渲染 渲染后03",
+        "w": 900,
+        "h": 1599
+    },
+    {
+        "cat": "ai",
+        "group": "ai白膜渲染",
+        "src": "/assets/works/ai/020-white-after-04.jpg",
+        "segs": [
+            "/assets/works/ai/020-white-after-04.jpg"
+        ],
+        "thumb": "/assets/works/ai/020-white-after-04__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai白膜渲染 渲染后04",
+        "w": 900,
+        "h": 1499
+    },
+    {
+        "cat": "ai",
+        "group": "ai白膜渲染",
+        "src": "/assets/works/ai/021-white-after-05.jpg",
+        "segs": [
+            "/assets/works/ai/021-white-after-05.jpg"
+        ],
+        "thumb": "/assets/works/ai/021-white-after-05__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai白膜渲染 渲染后05",
+        "w": 900,
+        "h": 1500
+    },
+    {
+        "cat": "ai",
+        "group": "ai白膜渲染",
+        "src": "/assets/works/ai/022-white-after-06.jpg",
+        "segs": [
+            "/assets/works/ai/022-white-after-06.jpg"
+        ],
+        "thumb": "/assets/works/ai/022-white-after-06__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai白膜渲染 渲染后06",
+        "w": 900,
+        "h": 1398
+    },
+    {
+        "cat": "ai",
+        "group": "ai白膜渲染",
+        "src": "/assets/works/ai/023-white-after-07.jpg",
+        "segs": [
+            "/assets/works/ai/023-white-after-07.jpg"
+        ],
+        "thumb": "/assets/works/ai/023-white-after-07__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai白膜渲染 渲染后07",
+        "w": 900,
+        "h": 1618
+    },
+    {
+        "cat": "ai",
+        "group": "ai白膜渲染",
+        "src": "/assets/works/ai/024-white-after-08.jpg",
+        "segs": [
+            "/assets/works/ai/024-white-after-08.jpg"
+        ],
+        "thumb": "/assets/works/ai/024-white-after-08__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai白膜渲染 渲染后08",
+        "w": 960,
+        "h": 1440
+    },
+    {
+        "cat": "ai",
+        "group": "ai白膜渲染",
+        "src": "/assets/works/ai/025-white-after-09.jpg",
+        "segs": [
+            "/assets/works/ai/025-white-after-09.jpg"
+        ],
+        "thumb": "/assets/works/ai/025-white-after-09__t.jpg",
+        "tw": 500,
+        "th": 700,
+        "label": "ai白膜渲染 渲染后09",
+        "w": 982,
+        "h": 1440
+    }
+]
