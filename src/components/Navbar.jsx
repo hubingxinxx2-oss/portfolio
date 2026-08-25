@@ -12,8 +12,13 @@ const links = [
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false)
   const [active, setActive] = useState('')
+  const [menuOpen, setMenuOpen] = useState(false)
   const { pathname } = useLocation()
   const onHome = pathname === '/'
+
+  useEffect(() => {
+    setMenuOpen(false)
+  }, [pathname])
 
   useEffect(() => {
     let raf = 0
@@ -79,6 +84,36 @@ export default function Navbar() {
 
         <Link className="btn btn--primary btn--sm nav__cta" to={onHome ? '#contact' : '/#contact'}>
           联系我
+        </Link>
+        <button
+          className={`nav__burger ${menuOpen ? 'is-open' : ''}`}
+          type="button"
+          aria-label={menuOpen ? '关闭导航菜单' : '打开导航菜单'}
+          aria-expanded={menuOpen}
+          onClick={() => setMenuOpen((v) => !v)}
+        >
+          <span />
+          <span />
+          <span />
+        </button>
+      </div>
+      <div className={`nav__panel ${menuOpen ? 'is-open' : ''}`}>
+        {links.map((link) => (
+          <Link
+            key={link.id}
+            to={onHome ? `#${link.id}` : `/#${link.id}`}
+            className={`nav__panel-link ${active === link.id ? 'is-active' : ''}`}
+            onClick={() => setMenuOpen(false)}
+          >
+            {link.label}
+          </Link>
+        ))}
+        <Link
+          className={`nav__panel-link ${pathname === '/portfolio' ? 'is-active' : ''}`}
+          to="/portfolio"
+          onClick={() => setMenuOpen(false)}
+        >
+          作品集
         </Link>
       </div>
     </header>

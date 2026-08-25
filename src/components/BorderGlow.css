@@ -132,6 +132,13 @@
     0 0 50px 2px var(--glow-color-10, hsl(40deg 80% 80% / 10%));
 }
 
+/* 移动端无 hover 无指针事件，外发光层仅造成横向溢出，直接裁剪 */
+@media (max-width: 820px) {
+  .border-glow-card {
+    overflow: hidden;
+  }
+}
+
 .border-glow-inner {
   display: flex;
   flex-direction: column;
