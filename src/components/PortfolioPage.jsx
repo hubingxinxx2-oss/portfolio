@@ -18,16 +18,12 @@ export default function PortfolioPage() {
         if (!map.has(w.group)) map.set(w.group, [])
         map.get(w.group).push(w)
       })
-    const order = (t) =>
-      t === 'UI 作品集'
-        ? 0
-        : t === '平面作品集'
-          ? 1
-          : t === '详情页'
-            ? 2
-            : t === '主图'
-              ? 3
-              : 4
+    // 详情页置顶 → 美妆类海报次之 → 其余按原顺序
+    const isBeautyPoster = (t) => {
+      const first = map.get(t)?.[0]
+      return first?.cat === 'beauty' && t.includes('海报')
+    }
+    const order = (t) => (t === '详情页' ? 0 : isBeautyPoster(t) ? 1 : 2)
     return [...map.entries()]
       .map(([title, images]) => ({ title, images }))
       .sort((a, b) => order(a.title) - order(b.title))
